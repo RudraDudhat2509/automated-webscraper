@@ -1,0 +1,850 @@
+url,title,cleaned_text,Company Names Mentioned,Market Size Estimates,Industry Reports,Economic Trends
+https://enterpriseleague.com/blog/engineering-startups/,26 engineering startups that can change the world in 2025,"During the past twenty years, significant changes have occurred in society, largely driven by outstanding technological innovations. The engineering industry, in particular, has seen a revolution, with startups creating innovative products to solve problems or provide better alternatives to existing solutions. Engineering startups focus on developing solutions across various sectors, from robotics to healthcare, often fulfilling unmet market needs.
+
+Notable engineering startups include:
+
+- **Virtual Facility**: Founded in 2018, it addresses alarm fatigue in industrial settings using machine learning to prioritize alarms based on significance.
+  
+- **nTopology**: This company offers a 3D modeling platform for product design, facilitating collaboration among engineers and clients like Lockheed Martin.
+
+- **Arch Engineers**: Provides life-cycle engineering services, focusing on innovative solutions for clients in oil and gas, mining, and infrastructure.
+
+- **Carnot**: Aims to reduce global CO2 emissions by revolutionizing power generation for marine craft and heavy vehicles.
+
+- **Existo**: Develops solutions for people with disabilities, promoting health and wellness through innovative wearable technology.
+
+These startups exemplify the creativity and flexibility that define the engineering sector, allowing them to thrive in a competitive landscape.","Virtual Facility, nTopology, Arch Engineers, Carnot, Existo",,"Virtual Facility, nTopology, Arch Engineers, Carnot, Existo","Virtual Facility, nTopology, Arch Engineers, Carnot, Existo"
+https://www.pwc.com/us/en/industries/industrial-products/library/engineering-and-construction-trends.html,"Engineering and construction industry trends: PwC
+","The engineering and construction (E&C) sector is undergoing significant transformation driven by policy, credits, and incentives, alongside growing demand for clean energy. Global construction projections are expected to rise from US$10.2 trillion in 2020 to $15.2 trillion by 2030, emphasizing sustainable infrastructure and construction techniques. E&C firms face mounting pressure to deliver projects that align with customers' sustainability and net-zero goals, balancing short-term financial stability with long-term commitments.
+
+To thrive, E&C executives should integrate sustainability into core business models while adapting to fluctuating project demands. The reelection of Donald J. Trump presents both opportunities and challenges, with potential deregulation impacting renewable investments. Existing legislation like the Inflation Reduction Act (IRA) and the Bipartisan Infrastructure Law (BIL) supports clean energy development, creating opportunities for innovative emissions management solutions.
+
+E&C firms must embrace digital technologies to enhance operational efficiency and sustainability. Technologies such as digital twins, AI, and drones are reshaping workflows, improving project delivery, and enhancing safety. Strategic alliances with technology partners can further bolster capabilities, while addressing workforce shortages through recruitment and training is essential for meeting growing project demands.","E&C, Donald J. Trump, Inflation Reduction Act (IRA), Bipartisan Infrastructure Law (BIL)","$10.2 trillion, $15.2 trillion","$10.2 trillion, $15.2 trillion, 2020, 2030, Inflation Reduction Act (IRA), Bipartisan Infrastructure Law (BIL)","US$10.2 trillion, $15.2 trillion, 2020, 2030"
+https://www.mordorintelligence.com/industry-reports/united-states-engineering-services,"US Engineering Services Industry - Size, Trends & Research 2025 - 2030","The United States Engineering Services Market is segmented by application (Civil, Mechanical, etc.), service type (Consulting and Design, Process and Plant Engineering, etc.), end-user industry (Construction and Infrastructure, Oil and Gas, etc.), and engagement model (In-House, Outsourced/EPCM). The market size is projected to grow from USD 175.21 billion in 2025 to USD 271.01 billion by 2030, reflecting a CAGR of 9.12%. 
+
+Key drivers include federal infrastructure funding under the Infrastructure Investment and Jobs Act, semiconductor incentives from the CHIPS Act, and defense modernization budgets. Demand is being reshaped by manufacturing reshoring and the commercialization of digital-twin workflows. Major players are focusing on acquisitions to enhance specialty capabilities, particularly in clean energy and advanced manufacturing. 
+
+By application, civil engineering holds a 34% market share, while consulting and design services account for 40% of market revenue. The Southeast corridor and California are leading regions for growth, driven by favorable regulations and lower costs. Challenges include volatile input costs and skilled labor shortages, impacting growth and margins across the sector.","United States Engineering Services Market, Infrastructure Investment and Jobs Act, CHIPS Act, California","USD 175.21 billion in 2025, USD 271.01 billion by 2030, CAGR of 9.12%","USD 175.21 billion, USD 271.01 billion, 9.12%, 34%, 40%","USD 175.21 billion, USD 271.01 billion, 9.12%, 34%, 40%"
+https://online-engineering.case.edu/blog/innovative-engineering-practices,Innovative Engineering Practices Driving Industry Transformation,"Engineers spearhead new developments that are shaping our society. From advanced robotics to sustainable energy systems, mechanical engineers develop cutting-edge methods to solve complex problems in design, production, and sustainability. 
+
+Artificial intelligence (AI) and machine learning technologies underpin many modern engineering techniques, accelerating workflows for faster product development. Generative AI can create rapid prototypes based on specifications, allowing engineers to refine designs based on AI models and performance data. AI algorithms improve product performance and functionality through real-time error detection and predictive maintenance, optimizing performance and reducing downtime.
+
+Modern manufacturing has evolved through four industrial revolutions, with mechanical engineers at the forefront. The fourth, known as Industry 4.0, incorporates connected sensors that collect data to optimize manufacturing processes. Manufacturers integrate Internet of Things (IoT) technology, cloud computing, and robotics to enhance decision-making and real-time monitoring of equipment performance.
+
+Mechanical engineers are also leading efforts in sustainable engineering practices, designing energy-efficient systems and renewable energy technologies. They develop solar, wind, and thermal energy projects to reduce carbon emissions. For example, Flexi-wings increase the efficiency of wind turbines by optimizing the pitch angle, improving efficiency by 35%. 
+
+Simulation and modeling techniques, such as finite element analysis (FEA) and computational fluid dynamics (CFD), allow engineers to design and optimize products virtually, reducing costs and improving performance. Digital twins enable real-time monitoring and testing without interrupting operations. 
+
+The online Master of Science in Mechanical Engineering program from Case Western Reserve University equips students with the skills needed to become innovative leaders in the field. The rigorous curriculum provides practical, hands-on experience, making it an affordable option for advancing careers.",Case Western Reserve University,,"Mechanical Engineering, Industry 4.0, Internet of Things (IoT), cloud computing, robotics, sustainable engineering practices, solar energy, wind energy, thermal energy, Flexi-wings, finite element analysis (FEA), computational fluid dynamics (CFD), digital twins, Case Western Reserve University","Industry 4.0, Internet of Things (IoT), cloud computing, robotics, solar, wind, thermal energy, Flexi-wings, finite element analysis (FEA), computational fluid dynamics (CFD), Case Western Reserve University"
+https://www.forbes.com/sites/haniyarae/2025/03/04/meet-americas-best-startup-employers-2025/,Meet America’s Best Startup Employers 2025,"Inside the lab at Lunar Energy’s headquarters in Mountain View, California, electrical engineers, mechanical engineers, applications engineers, and industrial designers share the same ""bench."" Lunar Energy, a clean energy startup founded in 2020, develops solar energy solutions to power homes. Despite being split between California and London, employees work cohesively. 
+
+Ed Franklin, head of people at Lunar Energy, emphasizes the importance of hiring the right people, taking time to ensure a good fit. Employee feedback is highly valued, with CEO Kunal Girotra regularly soliciting input through Ask Me Anything sessions and maintaining an anonymous feedback forum. This focus on culture and collaboration has helped Lunar Energy earn the No. 4 spot on Forbes' list of America’s Best Startup Employers.
+
+The list evaluates companies based on reputation, employee satisfaction, and growth, using millions of data points. Other notable companies include Cribl, Wiz, and Hightouch, which have also risen in the rankings. Anthropic, known for its AI assistant Claude, emphasizes a culture of safety and ethical considerations in technology development, further highlighting the importance of employee well-being and engagement.","Lunar Energy, Cribl, Wiz, Hightouch, Anthropic",No data found,"Lunar Energy, 2020, California, London, No. 4, Forbes' list of America’s Best Startup Employers, Cribl, Wiz, Hightouch, Anthropic, Claude","Lunar Energy, 2020, California, London, No. 4, Forbes, Cribl, Wiz, Hightouch, Anthropic, Claude"
+https://www.acec.org/resources/market-intelligence/economic-updates/,Industry Insights - ACEC,"ACEC releases monthly economic updates that include trends and indicators relevant to the engineering industry. These reports provide insights on economic volatility predictions, A/E services revenue data, and market performance over the past year, highlighting states with economic momentum.
+
+Recent updates include the U.S. Census results for the monthly Value of Construction, indicating a second consecutive monthly decline in construction spending and signs of softening growth. The Census Bureau's Quarterly Services Survey also sheds light on industry performance.
+
+Podcasts feature discussions on the economic outlook for engineering and design services, including insights from industry experts like FMI’s Jay Bowman. Staff contacts such as Thomas Grogan and Diana O’Lare are key figures in strategic development and market intelligence.
+
+ACEC promotes the business interests of America’s engineering and design services industry, advocating for members through resources, education, and events. Join ACEC to engage with a network dedicated to advancing the profession.","ACEC, FMI",No specific market size estimates are mentioned in the text.,"engineering industry, construction spending, A/E services revenue data, market performance, economic volatility predictions","U.S. Census results for the monthly Value of Construction, second consecutive monthly decline in construction spending, signs of softening growth"
+https://www.borntoengineer.com/resources/how-engineering-is-evolving-to-meet-the-challenges-of-the-future,How Engineering Is Evolving To Meet The Challenges Of The Future — Born To Engineer,"How Engineering is Evolving To Meet The Challenges of the Future
+
+A combination of technological change and the need to move to a green economy means that the engineering sector is constantly changing. Engineering occupations in the UK are expected to grow by 2.8% by 2030, adding 173,000 new jobs. The range of skills required by engineering employers is becoming broader and more diverse.
+
+Demand for specialised engineering skills is growing, particularly in fields such as robotics and biomedical engineering. 45% of job postings require software skills, with a shift towards automation, programming languages, and computer-aided design skills. Job adverts increasingly feature titles like “environmental engineers” and “renewable engineers,” reflecting a focus on sustainability.
+
+Civil engineering must adapt to meet net zero targets, with a significant portion of carbon emissions linked to infrastructure. Engineers will need problem-solving skills to tackle climate change, focusing on sustainable infrastructure and green energy projects. Chemical engineers will play a crucial role in water treatment, sustainable farming, and energy security. Mechanical engineers will be vital in renewable energy infrastructure, robotics, and environmentally friendly transport systems. Electrical engineers will focus on the electrical components of renewable energy systems and electric vehicles, ensuring energy efficiency and sustainability.",,"2.8% by 2030, 173,000 new jobs","Engineering, 2.8%, 2030, 173,000, robotics, biomedical engineering, 45%, automation, environmental engineers, renewable engineers, net zero, carbon emissions, chemical engineers, mechanical engineers, electrical engineers, renewable energy systems, electric vehicles, energy efficiency, sustainability","2.8% by 2030, 173,000 new jobs, 45% of job postings"
+https://www.kimley-horn.com/news-insights/awards/2025-enr-rankings/,2025 ENR Rankings | Kimley-Horn,"Kimley-Horn has been recognized in the 2025 Engineering News-Record (ENR) rankings, moving up to #8 among 500 design firms, an improvement from #10 in 2024. The firm also ranked in the top 20 for the power sector and made its debut in the battery storage market. Notable advancements were seen in sectors including airports, mass transit, healthcare, water supply, sewer and waste, wastewater treatment, power, and fossil fuel.
+
+In the General Building category, Kimley-Horn ranked #4 among 100 pure design firms and achieved the top position in several specific areas: #1 in retail, distribution and warehouses, multi-unit residential, and government offices. The firm also ranked #17 in sports and #2 in entertainment.
+
+In the power sector, Kimley-Horn ranked #19 overall, with #3 in solar and #9 in fossil fuel. In transportation, the firm ranked #8 overall, with #5 in airports and #6 in highways. Environmental rankings included #15 in wastewater treatment and #13 in water supply. In telecommunications, Kimley-Horn ranked #6 overall and #2 in towers and antennae.",Kimley-Horn,"#500, #20, #8, #4, #100, #1, #2, #17, #3, #9, #19, #5, #6, #15, #13, #6, #2","2025 Engineering News-Record (ENR) rankings, #8 among 500 design firms, #10 in 2024, top 20 for the power sector, battery storage market, #4 among 100 pure design firms, #1 in retail, distribution and warehouses, multi-unit residential, government offices, #17 in sports, #2 in entertainment, #19 in power sector, #3 in solar, #9 in fossil fuel, #8 in transportation, #5 in airports, #6 in highways, #15 in wastewater treatment, #13 in water supply, #6 in telecommunications, #2 in towers and antennae","#8, #10, 2024, #4, #100, #1, #3, #9, #17, #2, #19, #5, #6, #15, #13, #6, #2"
+https://imaa-institute.org/m-and-a-news/weekly-m-and-a-news-aug-4-to-10-2025/,"M&A News: Global M&A Deals Week of August 4 to 10, 2025","The Institute for Mergers, Acquisitions and Alliances (IMAA) provides a detailed weekly roundup of mergers and acquisitions news, highlighting significant global M&A deals. During the week of August 4 to August 10, the global M&A market saw considerable activity with 691 deals announced, totaling approximately USD 68.52 billion. Notably, 25 transactions valued at over USD 500 million each represented about 82% of the total deal value, amounting to USD 56.08 billion.
+
+The largest deal was Amphenol’s USD 10.5 billion acquisition of CommScope’s Connectivity and Cable Solutions business, enhancing Amphenol’s position in the IT datacom market. Blackstone made significant acquisitions, including Enverus for USD 6.5 billion and TechnoPro Holdings for USD 3.5 billion, reflecting a revival of private equity interest in sectors benefiting from technological innovation.
+
+Top 5 M&A Deals for the Week:
+1. Amphenol to acquire CommScope for USD 10.50 billion.
+2. Blackstone to acquire Enverus for USD 6.50 billion.
+3. Brookfield to acquire Duke Energy Florida for USD 6.00 billion.
+4. Blackstone to acquire TechnoPro for USD 3.50 billion.
+5. Boxabl to acquire FG Merger II Corp. for USD 3.50 billion. 
+
+This concludes our M&A news coverage for the week. For continuous insights into the evolving landscape of M&A news, follow IMAA.","Amphenol, CommScope, Blackstone, Enverus, TechnoPro Holdings, Brookfield, Duke Energy Florida, Boxabl, FG Merger II Corp.","USD 68.52 billion, USD 56.08 billion","691 deals, USD 68.52 billion, 25 transactions, USD 500 million, USD 56.08 billion, Amphenol, CommScope, USD 10.5 billion, Blackstone, Enverus, USD 6.5 billion, TechnoPro Holdings, USD 3.5 billion, Brookfield, Duke Energy Florida, USD 6.00 billion, Boxabl, FG Merger II Corp.","691 deals, approximately USD 68.52 billion, 25 transactions valued at over USD 500 million, USD 56.08 billion, Amphenol’s USD 10.5 billion acquisition of CommScope, Blackstone acquired Enverus for USD 6.5 billion, Blackstone acquired TechnoPro Holdings for USD 3.5 billion, 10.50 billion, 6.50 billion, 6.00 billion, 3.50 billion"
+https://addisongroup.com/insights/engineering-hiring-trends-in-demand-jobs-top-salaries-2025/,"Engineering hiring trends, in-demand jobs & top salaries: 2025  - Addison Group","Engineering hiring trends indicate a current ratio of job openings to engineers at about 3-1, down from 7-1 last year. Despite a slight market cooling, companies are actively seeking talent across various engineering roles, including project management and mechanical engineering. The energy, oil, and gas sectors are experiencing a talent drought, needing to fill over 30,000 engineering jobs by 2029 across multiple industries.
+
+Compensation remains a key factor in attracting engineering talent, with employers needing to offer competitive packages. Candidates are increasingly open to new opportunities, but hesitancy persists due to recent hiring experiences. Companies are extending interview processes, often conducting up to 8 interviews, which can lead to losing strong candidates to faster-moving firms.
+
+As organizations aim to rebuild culture, many are shifting from fully remote roles to hybrid models, with 70% of companies returning to the office. In-demand engineering roles include Project Management Engineer, Mechanical Engineer, and Electrical Engineer, with top salaries reaching over $292,000 for COO Engineering Services. For further insights and salary averages across various roles, download the Workforce Planning Guide.",No specific company names are mentioned in the text.,"over 30,000 engineering jobs by 2029","3-1, 7-1, over 30,000, 2029, 8, 70%, $292,000","3-1, 7-1, over 30,000 engineering jobs, by 2029, 70%, $292,000"
+https://www.ycombinator.com/companies/industry/engineering-product-and-design,"Engineering, Product and Design Startups funded by Y Combinator (YC) 2025 | Y Combinator","Engineering, Product, and Design startups funded by Y Combinator include GitLab, which offers a single application for the entire DevOps lifecycle, enabling Concurrent DevOps for improved efficiency and visibility. PagerDuty provides an operations performance platform for incident management, serving over 10,000 global customers. Algolia specializes in search and discovery APIs, helping companies like Under Armour and Twitch manage billions of search queries monthly.
+
+Bird CRM facilitates omnichannel communication for businesses, while Optimizely focuses on optimizing digital experiences across channels. Flock Safety offers a public safety operating system to enhance community safety through ethical technology. Cognito provides ID verification solutions, and Scale AI accelerates AI development for organizations.
+
+GitPrime, acquired by Pluralsight, enhances software development processes. Cyberdesk automates desktop workflows for developers, and Axolo improves code review practices within Slack. Vybe enables non-technical users to build internal apps with pre-built integrations. Ultralight offers a toolkit for embedding HTML in games, while CircuitLab simplifies electronic circuit design. 
+
+These startups exemplify innovation across various sectors, from AI and fintech to developer tools and safety solutions.","Y Combinator, GitLab, PagerDuty, Algolia, Under Armour, Twitch, Bird CRM, Optimizely, Flock Safety, Cognito, Scale AI, GitPrime, Pluralsight, Cyberdesk, Axolo, Vybe, Ultralight, CircuitLab",,"GitLab, PagerDuty, Algolia, Under Armour, Twitch, Bird CRM, Optimizely, Flock Safety, Cognito, Scale AI, GitPrime, Pluralsight, Cyberdesk, Axolo, Vybe, Ultralight, CircuitLab","GitLab, PagerDuty, Algolia, Under Armour, Twitch, Bird CRM, Optimizely, Flock Safety, Cognito, Scale AI, GitPrime, Pluralsight, Cyberdesk, Axolo, Vybe, Ultralight, CircuitLab"
+https://www.asce.org/publications-and-news/civil-engineering-source/civil-engineering-magazine/issues/magazine-issue/article/2025/03/engineering-the-future-achievements-and-challenges,"Engineering the future: Achievements and challenges | ASCE
+","2024 was a whirlwind of exciting achievements and complex challenges, highlighting the global impact of the civil engineering profession. 
+
+Cities of the Future: Engineering is where creativity meets problem-solving. Last spring, we unveiled our new IMAX film, ""Cities of the Future,"" depicting how civil engineers turn visionary ideas into reality. Audiences have been thrilled by the 3D giant-screen experience of engineering and infrastructure. The film is complemented by educational materials and the virtual reality Future World Vision experience. Our fundraising campaign breaks down barriers by allowing more children and students to experience this incredible movie.
+
+Bridging the Gap: We released “Bridging the Gap,” a detailed report on the effects of meaningful infrastructure investment on American households and businesses. This study prepares us for the 2025 Report Card for America’s Infrastructure. In November, we hosted an infrastructure finance summit, collaborating with the financial industry to educate them on how municipal bonds and updated standards can strengthen infrastructure.
+
+Strategic plan advancements: Guided by our strategic plan, we’re making giant leaps forward with our new digital strategy, Standards Office, and AMPLIFY standards website. These initiatives enable us to partner with federal agencies to advance resilient infrastructure through ASCE standards and training programs.",ASCE,,"""Bridging the Gap""",2025 Report Card for America’s Infrastructure
+https://www.levels.fyi/leaderboard/Software-Engineer/Entry-Level-Engineer/country/United-States/,Highest Paying Software Engineer Jobs | Levels.fyi,"Join the Levels.fyi subreddit! 
+
+The compensation figures below reflect median total yearly compensation amounts, including base salaries, stock grants, and bonuses. It's a difficult task to accurately compare leveling across companies. We aim to make that comparison as easy as possible, using our standard leveling framework. Currently, standard leveling is only available for Software Engineer positions within companies that have leveling structures submitted to our database. Median compensation across all levels is supported for all job roles.
+
+If you would like to help support our mission to help people make better career decisions, we encourage you to contribute via Add Compensation, Add Level Mapping, and Add Benefits. The more data points we have, the more power we have to change the culture around salary transparency, helping job seekers all across the world.
+
+We provide a 1-on-1 Resume Review service where our team of experienced recruiters can help increase your chances of breaking through that first step. We also offer 1-on-1 Salary Negotiation Support coaching to help you learn the ins and outs of negotiating to ensure you're getting the right offer. 
+
+Curious about the accuracy of our data? Check out our Verified Salaries page for more information!",Levels.fyi,,"""Software Engineer""","Median total yearly compensation amounts, base salaries, stock grants, bonuses"
+https://www.gartner.com/en/industries/investment-services,Insights for Technology Investors | Gartner,"Gartner provides differentiated insights to help technology investors make informed decisions. Our research supports investors throughout the investment life cycle, from idea generation to validating investment theses. Key questions addressed include CIO priorities and their impact on spending, competitive landscapes, and traction of companies in various sectors.
+
+Gartner's investment experts, with extensive experience in banking and equity research, deliver reliable insights on semiconductor and communications equipment markets. Our resources enhance efficiency, enabling faster investment decisions and reducing missteps.
+
+We offer opportunities for networking through customized programs at our events. Our webinars cover critical topics, including IT spending forecasts and strategic technology trends for 2024. 
+
+Gartner is a trusted advisor for over 15,000 enterprises across more than 100 countries, providing access to management and technology research, expert advice, benchmarks, and diagnostics. Clients benefit from 24/7 access to our resources, ensuring they stay ahead in a rapidly evolving market.",Gartner,No specific market size estimates were mentioned in the text.,"Gartner, semiconductor and communications equipment markets, 15,000 enterprises, 100 countries, IT spending forecasts, strategic technology trends for 2024","IT spending forecasts, strategic technology trends for 2024"
+https://www.startus-insights.com/innovators-guide/chemical-engineering-startups/,Chemical Engineering Startups to Watch in 2025 | StartUs Insights,"Discover the 10 Top Chemical Engineering Startups and Companies to Watch in 2025. This report highlights startups impacting the chemical engineering market with innovations in materials science, process optimization, and sustainable manufacturing. Startups are increasing efficiency and environmental impact through novel catalysts, carbon capture technologies, and AI-powered processes. 
+
+The Global Startup Heat Map identifies 10 chemical engineering companies, showcasing high startup activity in the UK, US, and India. The top startup hubs include London, New York City, Bangalore, Mumbai, and Singapore.
+
+Highlighted startups include:
+
+1. **CIWI** (Netherlands) - Develops metal-based water treatment agents produced on-site to reduce chemical waste.
+2. **PolyProtic** (India) - Provides chemical solutions for waste recycling and metallurgy, enhancing cobalt recovery from batteries.
+3. **C+UP** (USA) - Converts industrial CO2 emissions into value-added chemicals using renewable energy.
+4. **BioOilSolv** (Canada) - Converts waste biomass into high-value chemicals through pyrolysis.
+5. **Effex** (Belgium) - Offers a platform for optimizing chemical research using AI and design of experiments techniques.
+
+These startups exemplify innovative approaches to sustainability and efficiency in the chemical engineering sector.","CIWI, PolyProtic, C+UP, BioOilSolv, Effex",,"CIWI, PolyProtic, C+UP, BioOilSolv, Effex","UK, US, India, London, New York City, Bangalore, Mumbai, Singapore, Netherlands, India, USA, Canada, Belgium"
+https://www.nga.org/publications/strategies-to-address-engineering-workforce-challenges/,Strategies to Address Engineering Workforce Challenges - National Governors Association,"Strategies to Address Engineering Workforce Challenges
+
+Passage of the $1.2 trillion Infrastructure Investment and Jobs Act (IIJA) in late 2021 marked a significant investment in our nation’s infrastructure. This law aims to reverse decades of underinvestment in roads, bridges, and water systems while expanding energy investments and improving internet access.
+
+Communities across the country welcome these investments, eager to strengthen their economies and enhance residents' quality of life. However, increased investment levels, coupled with rising retirement trends and poor attrition rates, exacerbate existing gaps in the engineering workforce, threatening the impact of this generational opportunity.
+
+To tackle these challenges, the American Society of Civil Engineers (ASCE) and the National Governors Association (NGA) convened practitioners to identify actionable approaches for addressing workforce shortages. During a roundtable in May 2023, input was solicited from various stakeholders, including governors' offices, federal agencies, and engineering contractors.
+
+Participants discussed short-term recruitment and retention strategies, such as evaluating compensation, flexibility, and advancement opportunities, and incorporating caregiving needs into workplace culture. Long-term strategies included increasing education affordability, creating multiple entry points into the profession, and developing college programming to support engineering student retention.","American Society of Civil Engineers (ASCE), National Governors Association (NGA)",,"American Society of Civil Engineers, National Governors Association, May 2023",$1.2 trillion Infrastructure Investment and Jobs Act (IIJA)
+https://www.seedtable.com/best-engineering-startups-in-united-states,"Explore 69 Best Engineering Startups in United States to watch in 2025. Discover innovative companies, funding insights, and industry trends.","69 Best Engineering Startups in the United States to Watch in 2025. We track over 71,000 companies and rank them dynamically using our Seedtable Score, which uses quantitative and qualitative data points to signal the momentum behind a company. There are 407 startups with an aggregate funding of $11.2 billion. The average funding per company in this subset is $162.6 million. The list encompasses 404 founders and 1,863 executives. It includes data on 2,267 professionals within these filtered companies. Last update to the database: Sep 9, 2025.
+
+Arzeda has raised $72.2 million through 5 funding rounds. It designs custom microorganisms for industrial applications through computational enzyme design, protein optimization, and metabolic engineering. Tempus has raised $930 million, advancing precision medicine through AI in healthcare. Grail, with $1.8 billion raised, focuses on early-stage cancer detection. Synchron is developing implantable neural interface solutions and has raised $125 million. Notable Labs provides personalized drug combination testing for cancer patients, raising $71.3 million. BillionToOne, a diagnostic DNA testing company, has raised $276 million.","Arzeda, Tempus, Grail, Synchron, Notable Labs, BillionToOne","$11.2 billion, $162.6 million","$11.2 billion, 407, $162.6 million, 404, 1,863, 2,267, Sep 9, 2025, $72.2 million, 5, $930 million, $1.8 billion, $125 million, $71.3 million, $276 million","$11.2 billion, $162.6 million, $72.2 million, $930 million, $1.8 billion, $125 million, $71.3 million, $276 million"
+https://www.houstoneng.com/news/enr-2025/,HEI Named In The 2025 ENR Top 500 Design Firms List | Houston Engineering,"HEI has again secured a spot in the ENR Top 500 Design Firms list for 2025, marking the eighth consecutive year of this achievement! This year, we’ve not only maintained our presence on the list but have also climbed 24 spots. This honor is a testament to the hard work and dedication of our talented team, who continue to push the boundaries of design and engineering. We are proud to stand among the industry’s best, reflecting our strategic growth and our ability to adapt and thrive in an ever-evolving landscape. We are thankful for our clients and partners who have been instrumental in our journey. Your trust and collaboration fuel our pursuit of engineering solutions that make a difference in the communities we serve.
+
+Welcome, Janelle! We’re excited to welcome Janelle Wunderlich to the HEI team! Janelle joins our corporate team as a Recruitment specialist. Prairie Business recognized HEI as one of its 50 Best Places to Work in its annual list for 2023. HEI is proud to have our team members presenting at the Iowa Water Conference and Minnesota Association of Drainage Inspectors. 
+
+We begin by thoroughly researching available grant opportunities to identify those best suited to your specific project needs. Our team leverages our deep understanding of federal, state, and local grant programs, as well as foundation grants, to ensure a comprehensive search. We evaluate eligibility criteria, funding priorities, and timelines to match your project with the most appropriate funding sources. This targeted approach maximizes the potential for securing financial support for your project.","HEI, Prairie Business",,"ENR Top 500 Design Firms, 2025, 50 Best Places to Work, 2023","2025, eighth consecutive year, climbed 24 spots, 2023, 50 Best Places to Work"
+https://careerdesignstudio.buffalo.edu/blog/2025/06/30/explore-the-top-10-civil-engineering-industry-trends-in-2025/,Explore the Top 10 Civil Engineering Industry Trends in 2025 – Career Design Studio | University at Buffalo,"Explore the Top 10 Civil Engineering Industry Trends in 2025. Emerging technologies are impacting civil engineering workflows. Our research on the civil engineering industry trends is based on over 1100 startups and scaleups. Key trends include Building Information Modeling (BIM), sustainable building materials, renewable energy integration, Geographic Information Systems (GIS), and more.
+
+Rising global population and urbanization present challenges like climate change-induced infrastructure vulnerabilities. Trends such as BIM and advanced materials like self-healing concrete improve project execution. The global green building materials market is expected to grow significantly, driven by innovations like bio-based insulation and photovoltaic glass.
+
+Startups like D.TO and SeveUp are enhancing BIM integration, while companies like Respyre and Nexii are pioneering sustainable materials. Renewable energy integration is projected to grow, with startups like Traverse Technologies optimizing wind farm development.
+
+Advanced robotics and GIS are transforming construction efficiency and site analysis. Modular construction is addressing quality control and environmental impact, while structural monitoring technologies ensure safety. 3D printing and advanced materials are revolutionizing construction methods, promoting sustainability and reducing costs.","D.TO, SeveUp, Respyre, Nexii, Traverse Technologies",global green building materials market,"Civil Engineering Industry Trends, Building Information Modeling (BIM), sustainable building materials, renewable energy integration, Geographic Information Systems (GIS), self-healing concrete, global green building materials market, bio-based insulation, photovoltaic glass, D.TO, SeveUp, Respyre, Nexii, Traverse Technologies, advanced robotics, modular construction, structural monitoring technologies, 3D printing","Building Information Modeling (BIM), sustainable building materials, renewable energy integration, Geographic Information Systems (GIS), self-healing concrete, global green building materials market, bio-based insulation, photovoltaic glass, advanced robotics, Modular construction, structural monitoring technologies, 3D printing"
+https://www.borntoengineer.com/time-capsule-2025-10-groundbreaking-engineering-innovations-set-to-transform-industries,Time Capsule 2025 - 10 Groundbreaking Engineering Innovations Set To Transform Industries — Born To Engineer,"Welcome to our 2025 time capsule! We are about to kick off another year, and it’s always fascinating to consider what engineering news might lie ahead. This article explores ten key trends and stories likely to shape the engineering landscape in 2025. From the continued evolution of AI and robotics to breakthroughs in sustainable technologies like green hydrogen and carbon capture, these developments promise to significantly impact various industries. We’ll also explore the exciting possibilities of 3D printing, digital twins, and the ongoing private space race. 
+
+1. The Rise of AI-Powered Engineering Design
+
+Japanese lunar exploration company Ispace and Chuo University have formalized a partnership to assess the feasibility of deploying AI-equipped robots to explore lunar lava tubes by 2028. A new research study led by UWE Bristol and the University of Southampton has developed a sustainable approach for biodegradable smart textiles. Tata Steel UK and JCB have signed a Memorandum of Understanding to supply low-CO2 ""green"" steel. The EarthCARE satellite launched successfully earlier this year, probing the mysteries of clouds and climate. The Royal Academy of Engineering unveiled a statue of Alice Kan, a manufacturing engineer, to inspire the next generation.","Ispace, Chuo University, UWE Bristol, University of Southampton, Tata Steel UK, JCB, Royal Academy of Engineering",,engineering,"AI and robotics, sustainable technologies, green hydrogen, carbon capture, 3D printing, digital twins, private space race, biodegradable smart textiles, low-CO2 ""green"" steel, lunar lava tubes, clouds and climate"
+https://fmicorp.com/insights/construction-outlook/2025-north-american-engineering-and-construction-outlook-third-quarter,2025 North American Engineering and Construction Outlook: Third Quarter | FMI Corp,"Offices  
+Contact  
+Consulting  
+Services  
+Strategy  
+Market Research & Due Diligence  
+Leadership & Organizational Development  
+Boards & Governance  
+High-Performing Teams  
+Succession Management  
+Operations  
+Compensation & Rewards  
+Compensation Consulting  
+FMI Compensation Tool  
+Peer Groups  
+Technology  
+Sectors  
+Architecture & Engineering  
+Building Products  
+Construction Materials  
+Contractors & Construction Services  
+Private Equity  
+Experts  
+Training  
+Programs  
+Custom Training  
+Executive Coaching  
+Investment Banking  
+Services  
+Sell-Side Advisory  
+Buy-Side Advisory  
+ESOP Advisory  
+Private Capital Placements  
+Ownership Transfer  
+Sectors  
+Building Products and Materials  
+Chemicals  
+Energy and Industrial  
+Energy Transition  
+Utility & Communication Infrastructure  
+Energy & Industrial Services  
+Engineering and Construction  
+Transactions  
+Insights  
+Thought Leadership  
+E&C Outlook  
+Industry Indices  
+FMI Built-in Podcast  
+
+2025 North American Engineering and Construction Outlook: Third Quarter  
+The third quarter 2025 edition of FMI’s North American Engineering and Construction Outlook forecasts just 1% growth in U.S. construction spending, down from 7% in 2024. While residential markets face affordability challenges, sectors like data centers, transportation, and power infrastructure remain strong.  
+Key takeaways include:  
+Residential slowdown continues, especially in multifamily (-9%), despite stabilization in single-family.  
+Nonresidential strength: Transportation, power, and data centers show robust growth forecasts.  
+Public infrastructure holds steady, though federal funding is narrowing and shifting to states and the private sector.  
+Discover which segments are expected to lead through 2026 and where risks and opportunities lie in our report that includes U.S. and Canadian forecasts, sector performance breakdowns, and policy implications.  
+Don't miss Jay Bowman's commentary about how to leverage this quarter's outlook for your business.  
+Download Full Report  
+Want to stay updated on relevant industry trends? Get our latest insights delivered directly to your inbox.  
+FMI Corp  
+Our consulting and investment banking teams work across the built environment to help clients by providing deep insights, unmatched industry relationships, and exceptional service tailored to their specific goals.",FMI Corp,"1%, 7%, -9%","North American Engineering and Construction Outlook: Third Quarter, 2025, 1%, 7%, -9%","1% growth in U.S. construction spending, 7% in 2024, multifamily (-9%)"
+http://www.fminet.com/insights/construction-outlook/2025-north-american-engineering-and-construction-outlook-second-quarter,2025 North American Engineering and Construction Outlook: Second Quarter | FMI Corp,"2025 North American Engineering and Construction Outlook: Second Quarter
+
+By Brian Strawberry, Jay Bowman, and Jacob McCann
+
+After a five-year run of more than 40% cumulative growth, FMI’s latest forecast shows construction put-in-place spending increasing just 2% year-over-year. While this might not feel like growth compared to prior years, these forecasts can inform your strategic planning, understand longer-term trends, and help position your business.
+
+Key Takeaways Include:
+- Total U.S. engineering and construction spending is forecast to rise 2% by the end of 2025, a notable slowdown compared to the 7% growth seen in 2024.
+- The absence of standout high-performing segments in 2025 suggests the industry is entering late-cycle conditions.
+- The second quarter 2025 Nonresidential Construction Index (NRCI) dropped sharply to 43.5 from 56.9, a 24% decline from the previous quarter.
+
+Watch Jay Bowman's latest video for insights and analyses on our forecast. This forecast was developed amid a highly dynamic and evolving economic landscape. As such, assumptions and outcomes may shift as new data emerges.",FMI,2%,"2025 North American Engineering and Construction Outlook: Second Quarter, FMI, 2%, 7%, 43.5, 56.9, 24%","2% year-over-year, 7% growth, second quarter 2025 Nonresidential Construction Index (NRCI) 43.5, 56.9, 24% decline"
+https://www.ssipeople.com/how-has-the-engineering-job-market-changed-in-2025/,How Has The Engineering Job Market Changed in 2025? | SSi People,"Over the past six months, the engineering industry has given job seekers optimism due to the rapid evolution of AI, shifting employer hiring practices, and rising opportunities for work. The engineering job market is projected to grow faster than the average of all occupations over the next decade.
+
+The American Council of Engineering Companies (ACEC) reported that on average, 9% of engineering positions remain unfilled, which is one point more than the previous quarter. Additionally, the ACEC predicted that 75% of engineering firms will experience an increase in hiring over the next 12 months. This suggests sustained growth and opportunity for engineers searching for jobs amidst industry changes.
+
+There has been notable demand for engineers across various industries. According to the World Economic Forum’s Future of Jobs Report 2025, some of 2025’s fastest-growing roles include Fintech Engineering, Environmental and Renewable Energy Engineering, and Electrotechnology Engineering. Companies involved in automation are aggressively searching for engineers with technical skills.
+
+Amidst increased return-to-office policies and a shift to hybrid work environments, many job postings for engineers specify hybrid or on-site days, indicating a trend of allowing engineers to set flexible schedules. Skills-based hiring has enabled tech companies to address talent shortages by opening the door to candidates who may not possess all qualifications but exhibit necessary skills. This strategy allows companies to fill skill gaps and leverage technical innovation.
+
+AI presents an opportunity for more work and job positions. The ACEC noted that the rise of data centers will positively affect engineering jobs. In their report, 78% of engineering firms believe AI will have a positive impact on their firm in the coming year. The engineering job market is well-positioned for growth across various industries, providing candidates searching for positions with positive reassurance.","American Council of Engineering Companies (ACEC), World Economic Forum","9%, 75%, 78%","American Council of Engineering Companies (ACEC), World Economic Forum’s Future of Jobs Report 2025, Fintech Engineering, Environmental and Renewable Energy Engineering, Electrotechnology Engineering, 9%, 75%, 78%","9%, 75%, 78%"
+https://www.asme.org/topics-resources/content/6-top-challenges-facing-engineering-firms-in-2023,Top Challenges Facing Engineering Firms in 2023  - ASME,"Business challenges that engineering firms will face in 2023 include inflation, supply chain disruptions, labor shortages, sustainability, high customer expectations, and technology implementation. The economic uncertainties from 2022 will continue, with rising material costs and skilled-labor shortages impacting production and profitability.
+
+1. **Inflation**: High interest rates increase the cost of engineering equipment and materials, pressuring firms to contain costs. Industry professionals must keep their workforce motivated and technologically adept.
+
+2. **Supply Chain Disruptions**: Long-lasting impacts of COVID-19 complicate project forecasting. Material availability fluctuates, affecting production schedules and profitability. Transitioning to A2L refrigerants may cause shortages.
+
+3. **Skilled Engineers**: The demand for engineers is high as firms seek to complete projects on time. The shortage of experienced engineers leads to bidding wars for talent, necessitating attractive compensation and development opportunities.
+
+4. **Sustainability**: Firms face pressure to adopt sustainable practices. Customers demand reduced carbon footprints, prompting companies to invest in compliance and energy-efficient technologies.
+
+5. **High Customer Expectations**: Customers expect fast results and quality outcomes, pushing firms to enhance their responsiveness and brand reputation.
+
+6. **Technology Implementation**: Firms must invest in Industry 4.0 technologies to remain competitive. Effective technology adoption and workforce training are crucial for operational efficiency.
+
+Overall, engineering firms are cautiously optimistic about 2023, with stabilizing supply chains aiding project development. However, a shortage of mechanical engineers may hinder growth. Executives must strategically deploy technology and develop hybrid business models to enhance performance.",None,No specific numerical or quantifiable market size estimates are provided in the text.,"inflation, supply chain disruptions, labor shortages, sustainability, high customer expectations, technology implementation","inflation, supply chain disruptions, labor shortages, sustainability, high customer expectations, technology implementation, rising material costs, skilled-labor shortages, project forecasting, A2L refrigerants, bidding wars for talent, compliance, energy-efficient technologies, fast results, quality outcomes, Industry 4.0 technologies, operational efficiency, stabilizing supply chains, shortage of mechanical engineers, hybrid business models"
+https://www.bdcnetwork.com/home/news/55154545/top-75-engineering-firms-for-2023,Top 75 Engineering Firms for 2023 | Building Design+Construction,"Kimley-Horn, WSP, Tetra Tech, Langan, and IMEG lead the rankings of the nation's largest engineering firms for nonresidential and multifamily buildings, as reported in Building Design+Construction's 2023 Giants 400 Report.
+
+**Top 75 Engineering Firms for 2023:**
+1. Kimley-Horn - $1,047,823,000
+2. WSP - $838,007,376
+3. Tetra Tech High Performance Buildings Group - $488,243,637
+4. Langan - $393,500,000
+5. IMEG - $373,020,000
+6. Fluor - $294,951,301
+7. NV5 Global - $264,707,370
+8. Arup - $235,827,936
+9. Jensen Hughes - $226,574,651
+10. KPFF Consulting Engineers - $203,733,218
+11. Affiliated Engineers - $181,344,000
+12. Henderson Engineers - $152,571,882
+13. CMTA - $146,823,899
+14. Olsson - $136,592,778
+15. Walter P Moore - $132,775,174
+16. Syska Hennessy Group - $127,724,516
+17. BR+A - $126,500,000
+18. M.C. Dean - $122,356,723
+19. Vanderweil Engineers - $104,440,100
+20. BKF Engineers - $102,387,164
+
+The report includes various rankings across sectors, highlighting the top firms in architecture, engineering, and construction.","Kimley-Horn, WSP, Tetra Tech, Langan, IMEG, Fluor, NV5 Global, Arup, Jensen Hughes, KPFF Consulting Engineers, Affiliated Engineers, Henderson Engineers, CMTA, Olsson, Walter P Moore, Syska Hennessy Group, BR+A, M.C. Dean, Vanderweil Engineers, BKF Engineers","$1,047,823,000, $838,007,376, $488,243,637, $393,500,000, $373,020,000, $294,951,301, $264,707,370, $235,827,936, $226,574,651, $203,733,218, $181,344,000, $152,571,882, $146,823,899, $136,592,778, $132,775,174, $127,724,516, $126,500,000, $122,356,723, $104,440,100, $102,387,164","Kimley-Horn, WSP, Tetra Tech High Performance Buildings Group, Langan, IMEG, Fluor, NV5 Global, Arup, Jensen Hughes, KPFF Consulting Engineers, Affiliated Engineers, Henderson Engineers, CMTA, Olsson, Walter P Moore, Syska Hennessy Group, BR+A, M.C. Dean, Vanderweil Engineers, BKF Engineers","Kimley-Horn, WSP, Tetra Tech High Performance Buildings Group, Langan, IMEG, Fluor, NV5 Global, Arup, Jensen Hughes, KPFF Consulting Engineers, Affiliated Engineers, Henderson Engineers, CMTA, Olsson, Walter P Moore, Syska Hennessy Group, BR+A, M.C. Dean, Vanderweil Engineers, BKF Engineers"
+https://www.enr.com/toplists/2025-top-500-design-firms-preview,ENR 2025 Top 500 Design Firms Preview | Engineering News-Record,"The Trump administration’s plan to take its “America First” agenda global had a rocky start as the president’s sweeping tariff announcements tanked stock markets worldwide. Although the full scope of tariffs has since been paused, ripples of economic uncertainty have roiled the design market, say Top 500 firms. As some owners brace for a change of tide, designers say they’re rising to the occasion with more flexibility.
+
+Companies are ranked according to revenue for design services performed in 2024 in millions. Those with subsidiaries are indicated by (†). For information on subsidiaries and where each firm worked outside of the U.S., see www.enr.com. Firms not ranked last year are noted. Some markets may not add up to 100% due to omission of “other” miscellaneous market category and rounding. 
+
+Key to Type of Firm: A (architect), E (engineer), EC (engineer-contractor), AE (architect-engineer), EA (engineer-architect), ENV (environmental), GE (geotechnical engineer), L (landscape architect), P (planner), O (other). Other combinations are possible. Firms classified themselves.",Top 500,,Design services performed in 2024 in millions,economic uncertainty
+https://www.engineering.com/engineers-have-spoken-here-are-the-top-workplaces-for-engineers-in-2025/,Engineers have spoken: Here are the Top Workplaces for Engineers in 2025 - Engineering.com,"Engineering.com partnered with Energage to recognize excellence in engineering companies across the U.S. The Top Workplaces for Engineers award highlights organizations prioritizing employee well-being, innovation, and a supportive workplace culture. This year, 35 companies were recognized for their commitment to creating exceptional environments for engineering professionals. 
+
+Top large companies include LJA Engineering, a multi-disciplinary consulting firm with 2,531 employees, and Infrastructure Consulting & Engineering, LLC, known for its innovative infrastructure solutions. The Haskell Company, with 1,800 employees, combines architecture, engineering, and construction expertise. Sargent & Lundy, a leader in power and energy, employs 4,020 and has been in operation since 1891.
+
+Midsize companies like Oddball, a software consulting firm, and MBP, specializing in construction management, were also recognized. Garner Health Technology, a health tech startup, and BCC Engineering, known for innovative solutions, are among the top small companies. 
+
+Nominations for next year’s list are welcome year-round at topworkplaces.com/engineering-com.","Engineering.com, Energage, LJA Engineering, Infrastructure Consulting & Engineering, LLC, The Haskell Company, Sargent & Lundy, Oddball, MBP, Garner Health Technology, BCC Engineering","35, 2,531, 1,800, 4,020","LJA Engineering, Infrastructure Consulting & Engineering, LLC, The Haskell Company, Sargent & Lundy, Oddball, MBP, Garner Health Technology, BCC Engineering","35, LJA Engineering, 2,531, Infrastructure Consulting & Engineering, LLC, The Haskell Company, 1,800, Sargent & Lundy, 4,020, Oddball, MBP, Garner Health Technology, BCC Engineering"
+https://www.govconwire.com/category/ma_activity,403 Forbidden,"403 Forbidden  
+nginx",,,,
+https://www.almithaqinstitute.com/en/blog/challenges-and-opportunities-in-engineering-and-technology/,"
+            
+    Challenges and Opportunities in Engineering and Technology - Al-Mithaq Institute Blog
+
+        ","Challenges and Opportunities in Engineering and Technology
+
+This analysis examines the complex challenges confronting engineering professionals and highlights the unprecedented opportunities arising from technological advancement, changing industries, and global priorities.
+
+The engineering and technology sectors are experiencing transformation. Digital disruption, climate change imperatives, and shifting economic forces are reshaping how engineers approach problems and develop solutions. At Al Mithaq Institute, we prepare professionals to navigate these changes by understanding both the challenges they present and the opportunities they create.
+
+Key Challenges:
+- Sustainability requirements and carbon reduction
+- Rapid technological obsolescence
+- Complex interdisciplinary problems
+- Cybersecurity vulnerabilities
+- Skills gap and talent shortage
+
+Emerging Opportunities:
+- Artificial intelligence and machine learning integration
+- Renewable energy innovations
+- Smart infrastructure development
+- Advanced manufacturing technologies
+- Cross-disciplinary collaborations
+
+Engineers must master sustainable design principles and carbon-efficient methodologies to be valued across all sectors. The pace of technological advancement creates challenges such as technical obsolescence and integration complexity. Cybersecurity threats are increasing as systems become more connected, necessitating a focus on security-by-design principles.
+
+Despite these challenges, opportunities for engineering innovation abound, particularly in AI, sustainable energy systems, and advanced materials. Engineers who can work effectively across disciplines will be positioned for success. Continuous learning, developing T-shaped expertise, and cultivating systems thinking are essential strategies for thriving in this evolving landscape.",Al Mithaq Institute,,"Engineering, Technology","Digital disruption, climate change imperatives, shifting economic forces, sustainability requirements, carbon reduction, rapid technological obsolescence, complex interdisciplinary problems, cybersecurity vulnerabilities, skills gap, talent shortage, artificial intelligence, machine learning integration, renewable energy innovations, smart infrastructure development, advanced manufacturing technologies, cross-disciplinary collaborations"
+https://www.enr.com/keywords/2575-mergers-acquisitions,Mergers & Acquisitions - Page 1 | Engineering News-Record,"UK's Wood Group Agrees to $291M Purchase by UAE Engineer Sidara. Under a long-gestating deal set to complete in the first half of 2026, Sidara will assume $1.6 billion of Wood Group debt and provide $450 million in cash for the financially strapped energy consultant.
+
+Wood Group Extends Deadline for Sidara's Latest Purchase Bid to June 30. The U.K.-based energy and industrial services firm extends the deadline for a firm offer from UAE-based Sidara or an end to discussions, as an audit of its accounting and corporate governance moves toward completion.
+
+AtkinsRéalis Buys Majority Stake in David Evans Enterprises in a $300M Deal. The cash deal, which is subject to approval by David Evans’ shareholders, is expected to close in the second quarter.
+
+Turner Construction Completes Purchase of Dornan Group. Turner says its acquisition of the Irish firm will help it reach new markets and clients.
+
+Gannett Fleming Buys TranSystems in a $1.3B Transport Design Deal. The cash purchase transaction with a former private equity firm owner bolsters the combined entity's position in bridge, highway, mass transit, and rail work.
+
+Design Giant WSP to Buy Power Engineers Inc. in a $1.8B Cash Deal. The purchase of the leading power and transmission design firm is set to wrap up in the fourth quarter.","Wood Group, Sidara, AtkinsRéalis, David Evans Enterprises, Turner Construction, Dornan Group, Gannett Fleming, TranSystems, WSP, Power Engineers Inc.","$291M, $1.6 billion, $450 million, $300M, $1.3B, $1.8B","Wood Group, Sidara, $291M, $1.6 billion, $450 million, AtkinsRéalis, David Evans Enterprises, $300M, Turner Construction, Dornan Group, Gannett Fleming, TranSystems, $1.3B, WSP, Power Engineers Inc., $1.8B","$291M, $1.6 billion, $450 million, $300M, $1.3B, $1.8B"
+https://mrinetwork.com/hiring-talent-strategy/engineering-2025-opportunities-challenges-and-the-role-of-recruiting-in-shaping-the-future/,"Engineering 2025: Opportunities, Challenges, and the Role of Recruiting in Shaping the Future - MRINetwork","Late in 2024, the US Bureau of Labor Statistics (BLS) released a report on the future of engineering as a career. The data indicates that demand for engineers will grow by at least 13% through 2031. This surge is driven by two trends: an emphasis on sustainability and the need for innovation across industries, particularly with emerging technologies like generative AI.
+
+Much of the demand for engineers stems from the need to advance renewable energy technologies. The marketplace and governments are ready to embrace alternative energy, including solar, wind, and hydrogen. Engineers are also tasked with designing eco-friendly infrastructure, such as energy-efficient buildings and sustainable transportation systems. 
+
+However, engineers face challenges, including raw material shortages and increased costs associated with sustainability. They must balance environmental considerations with economic realities, ensuring solutions are cost-effective while minimizing environmental impact. Continuous upskilling is essential as new technologies emerge.
+
+Recruiters will need to focus on talent with niche skills, such as renewable energy engineers and those experienced in AI and sustainable design. Investing in training programs and enhancing employer branding will be crucial to attract top talent passionate about sustainability and innovation.",Bureau of Labor Statistics,13%,"US Bureau of Labor Statistics, engineering, 13%, 2031, renewable energy, solar, wind, hydrogen, energy-efficient buildings, sustainable transportation systems, renewable energy engineers, AI, sustainable design","13% through 2031, sustainability, innovation, generative AI, renewable energy technologies, solar, wind, hydrogen, eco-friendly infrastructure, energy-efficient buildings, sustainable transportation systems, raw material shortages, increased costs, cost-effective, minimizing environmental impact, niche skills, renewable energy engineers, AI, sustainable design"
+https://companiesmarketcap.com/engineering/largest-companies-by-market-cap/,Largest engineering companies by market cap,"Companies: 10,616  
+Total market cap: $130.491 T  
+
+Largest engineering companies by market cap:  
+1. Siemens - $210.09 B  
+2. Schneider Electric - $153.38 B  
+3. ABB - $129.95 B  
+4. Hitachi - $126.14 B  
+5. Emerson - $76.03 B  
+6. Quanta Services - $56.99 B  
+7. Larsen & Toubro - $55.79 B  
+8. KONE - $34.85 B  
+9. Sandvik - $33.60 B  
+10. China State Construction Engineering - $32.30 B  
+11. WSP Global - $27.17 B  
+12. ASM International - $24.36 B  
+13. Grupo ACS - $20.40 B  
+14. ST Engineering - $19.83 B  
+15. China Communications Construction - $17.86 B  
+16. Jacobs Engineering - $17.53 B  
+17. AECOM - $16.76 B  
+18. IHI Corporation - $16.54 B  
+19. Neste - $14.99 B  
+20. MasTec - $14.97 B  
+
+This list includes the top engineering companies, which are specialized in construction, transportation, and environmental services. The ranking and market cap data are updated daily. Market capitalization is calculated by multiplying the share price with the number of outstanding shares.","Siemens, Schneider Electric, ABB, Hitachi, Emerson, Quanta Services, Larsen & Toubro, KONE, Sandvik, China State Construction Engineering, WSP Global, ASM International, Grupo ACS, ST Engineering, China Communications Construction, Jacobs Engineering, AECOM, IHI Corporation, Neste, MasTec",$130.491 T,"Siemens - $210.09 B, Schneider Electric - $153.38 B, ABB - $129.95 B, Hitachi - $126.14 B, Emerson - $76.03 B, Quanta Services - $56.99 B, Larsen & Toubro - $55.79 B, KONE - $34.85 B, Sandvik - $33.60 B, China State Construction Engineering - $32.30 B, WSP Global - $27.17 B, ASM International - $24.36 B, Grupo ACS - $20.40 B, ST Engineering - $19.83 B, China Communications Construction - $17.86 B, Jacobs Engineering - $17.53 B, AECOM - $16.76 B, IHI Corporation - $16.54 B, Neste - $14.99 B, MasTec - $14.97 B","10,616, $130.491 T, Siemens - $210.09 B, Schneider Electric - $153.38 B, ABB - $129.95 B, Hitachi - $126.14 B, Emerson - $76.03 B, Quanta Services - $56.99 B, Larsen & Toubro - $55.79 B, KONE - $34.85 B, Sandvik - $33.60 B, China State Construction Engineering - $32.30 B, WSP Global - $27.17 B, ASM International - $24.36 B, Grupo ACS - $20.40 B, ST Engineering - $19.83 B, China Communications Construction - $17.86 B, Jacobs Engineering - $17.53 B, AECOM - $16.76 B, IHI Corporation - $16.54 B, Neste - $14.99 B, MasTec - $14.97 B"
+https://www.popsci.com/technology/coolest-engineering-innovations-2024/,5 coolest engineering innovations of 2024 | Popular Science,"It was a fascinating year in engineering. To keep global temperatures from rising more than 1.5 degrees Celsius, we need to cut emissions in half by 2035, even as we will likely hit another record for burning fossil fuels this year. The brilliant engineering demonstrated in this year’s winning projects provides hope that we can rise to the challenge. A new kind of thermal battery will allow us to decarbonize the heat that powers industrial processes behind everything from cement to chemicals. Newly inexpensive lasers are helping turn ore into pure iron for steelmaking using renewable electricity. Food challenges have generated different types of innovation: Instead of hauling agricultural waste to decompose, why not create a robot that can process it into carbon-sequestering biochar? To fight pests, a technique called mRNA interference allows bioengineers to create a precision poison for a troublesome beetle. The most miraculous achievement in food this year may be an AI-formulated vegan cheese that is actually delicious.",,,Industry Reports,"2035, 1.5 degrees Celsius"
+https://www.gminsights.com/industry-analysis/civil-engineering-market,"Civil Engineering Market Size & Share – Trends Report, 2032","Civil Engineering Market size was valued at around USD 12.5 trillion in 2023 and is anticipated to register a CAGR of 5.2% between 2024 to 2032. Global urbanization and population increase have created a need for new infrastructure projects including roads, bridges, railroads, airports, and ports. Emerging economies are making significant investments in infrastructure to sustain rapidly rising populations. Many segments of the construction industry are experiencing sustained expansion, particularly in private building and home remodeling projects. 
+
+For instance, construction spending in the United States topped USD 2.1 billion in 2023. The construction industry in India is anticipated to reach USD 1.4 trillion by 2025, with significant investments in renewable energy, roads, urban infrastructure, and railways. 
+
+Civil engineering is undergoing a revolution driven by the need for sustainable practices. The incorporation of IoT devices and sensors into infrastructure systems allows for real-time monitoring of data, enhancing asset performance and maintenance procedures. The combination of IoT and AI is resulting in smarter buildings, with advanced systems tracking resource consumption. 
+
+Asia Pacific dominated the global civil engineering market with revenue of around USD 4.5 trillion in 2023, expected to reach USD 7.4 trillion by 2032. The region's rapid urbanization generates high demand for new infrastructure. The US holds a significant share of the North American market, focusing on improving aged infrastructure.",None,"USD 12.5 trillion, 5.2%, USD 2.1 billion, USD 1.4 trillion, USD 4.5 trillion, USD 7.4 trillion","USD 12.5 trillion, 5.2%, USD 2.1 billion, USD 1.4 trillion, USD 4.5 trillion, USD 7.4 trillion","USD 12.5 trillion, 5.2%, USD 2.1 billion, USD 1.4 trillion, USD 4.5 trillion, USD 7.4 trillion"
+https://www.mtu.edu/globalcampus/5-power-electrical-engineering-trends/,5 Power and Electrical Engineering Trends That Will Shape the Future,"Five Power and Electric Trends That Will Shape the Future
+
+As technology evolves, engineers must stay ahead of electrical engineering trends. The future of electronics influences various industries, including automotive, healthcare, manufacturing, telecommunications, and more. Here are five upcoming trends in electrical engineering:
+
+1. **Wireless Power Transfer (WPT)**: This innovation allows for the transmission of electrical energy without wires, enabling contactless charging for devices. WPT can power smart home devices, electric vehicles, and industrial machinery, enhancing convenience and safety.
+
+2. **Wearable Tech**: Wearable technology continues to innovate, from fitness trackers to smart clothing that monitors health metrics. These devices can prevent injuries and improve safety in workplaces.
+
+3. **Electric Power Distribution and Supply**: Smart grids and microgrids are transforming power generation. Smart grids enhance communication between utilities and consumers, while microgrids provide localized power, improving reliability and sustainability.
+
+4. **Electric Vehicles (EVs)**: The popularity of electric vehicles is rising, driven by consumer demand and government incentives. Major automotive companies are investing in electrification, expanding options beyond just battery-operated cars.
+
+5. **The Internet of Things (IoT)**: The IoT connects devices for data collection and automation. This trend is crucial for smart homes, cities, and industrial automation, requiring engineers to innovate continuously.
+
+Electrical engineers have the potential to shape the future through these trends. Michigan Technological University offers programs to prepare students for these advancements in electrical engineering.",Michigan Technological University,,"Electrical, automotive, healthcare, manufacturing, telecommunications, Wireless Power Transfer (WPT), Wearable Tech, Electric Power Distribution and Supply, Electric Vehicles (EVs), The Internet of Things (IoT), Michigan Technological University","Wireless Power Transfer (WPT), Wearable Tech, Electric Power Distribution and Supply, Electric Vehicles (EVs), The Internet of Things (IoT)"
+https://www.mckinsey.com/industries/engineering-construction-and-building-materials/our-insights,Error,"I'm sorry, but I cannot access external websites or retrieve content from them. However, if you have specific text that you would like me to clean, please provide it, and I will assist you with that.",,,,
+https://www.engineeringcapital.com/,Engineering Capital,"Engineering Capital partners with great entrepreneurs driven by technical insights. We boldly invest before traditional venture firms are willing. We lead seed rounds in companies defining new categories with the ambition to shape the future of information technology.
+
+The investments represented above and below are not representative of all investments in the portfolio of Engineering Capital I, II, III, or IV. Information regarding the full portfolio, including historical performance, is available upon request. There is no guarantee that investors in the Funds will have access to these or similar investments. Past performance is no guarantee of future results.
+
+Our founders are at the heart of the Engineering Capital ecosystem. We invest early and lead. Ashmeet Sidana has exceeded expectations, helping founders even before they start their companies. His understanding of technology combined with pragmatic wisdom is a hard combination to find. 
+
+Ashmeet's prior experience as a founder and CEO makes him an invaluable asset to startup founders. He has provided constant support, encouragement, and fresh perspectives through all our ups and downs. His creative approach has created a foundation for our cap table that paid off handsomely in later rounds. 
+
+We understand technology deeply. “Venture capital for engineers” is not just a tagline; we get technology in a way few VCs do.",Engineering Capital,,"Engineering Capital, Ashmeet Sidana, “Venture capital for engineers”",Engineering Capital
+https://www.50pros.com/top-50/engineering,Top 50 Engineering firm in the United States (2025),"Find and hire top agencies across various categories including Software Development, Digital Marketing, SEO, Public Relations, and Video Production. Get custom-built software tools, improve your brand reputation, and enhance your online presence with targeted ads. Explore services like Event Planning, Social Media Marketing, Influencer Marketing, and Content Marketing to grow your business.
+
+Discover top agencies globally and earn cash rewards for hiring through 50Pros. Our vetted firms specialize in Engineering, Architecture, and Sustainability Consulting, ensuring reliable and innovative solutions. Notable firms include Fluor, Jabil, and Jacobs, recognized for their project management and engineering excellence.
+
+Our platform connects you with experts in various fields, from Civil Engineering to Cybersecurity. Experience tailored solutions that enhance productivity and efficiency. Join us to access a curated list of agencies that meet your specific needs, ensuring a successful partnership for your projects.","50Pros, Fluor, Jabil, Jacobs",No explicit market size estimates mentioned.,"Software Development, Digital Marketing, SEO, Public Relations, Video Production, Event Planning, Social Media Marketing, Influencer Marketing, Content Marketing, Engineering, Architecture, Sustainability Consulting, Civil Engineering, Cybersecurity","Fluor, Jabil, Jacobs"
+https://www.forbes.com/lists/best-employers-for-engineers/,Forbes Best Employers for Engineers 2025 List - Engineering Careers,"The demand for engineers in the American workforce is at an all-time high, with recent analyses reporting a shortage of talent, particularly in software, industrial, civil, and electrical engineering. There is a critical need for engineers with expertise in next-generation technologies, such as advanced robotics and 3D printing. The gap between the supply of new engineers and the demand for their skill sets is growing. A report by BCG and SAE International projects that the need for engineering skills will increase by about 13% until 2031, potentially leaving one in three new roles unfilled.
+
+To help workers match their engineering skills with employers offering competitive compensation and engaging environments, Forbes partnered with Statista to create a ranking of America’s Best Employers For Engineers. Over 22,000 engineers were surveyed, evaluating their employers based on benefits, professional development opportunities, and workplace flexibility. The top 175 companies were ranked based on these responses, with current employee data weighted more heavily.","BCG, SAE International, Forbes, Statista",13% until 2031,"BCG, SAE International, Forbes, Statista",13% until 2031
+https://waggonereng.com/2025/04/28/waggoner-named-to-2025-enr-top-500-design-firms-list/,Waggoner Named to 2025 ENR Top 500 Design Firms List - Waggoner,"Waggoner Engineering has once again earned national recognition, securing a spot on the Engineering News-Record (ENR) Top 500 Design Firms list for 2025. This marks the firm’s second consecutive appearance on the prestigious list, now ranked #348, a rise from its 2024 debut at #391. 
+
+“It’s an honor to be named to the Top 500 list, and I couldn’t be more pleased about our significant leap from last year,” said Matthew T. Butler, President and CEO. “This milestone is a direct reflection of the dedication and excellence each of our employees brings to the table—and of the trust our clients place in us to deliver transformative solutions.”
+
+The ENR Top 500 Design Firms list ranks US companies based on revenue from design services performed during the previous calendar year. ENR is a leading publication for the architecture, engineering, and construction (AEC) industry, providing in-depth news, analysis, and data across its digital and print platforms to a global audience.
+
+Waggoner Engineering, founded in 1976, is a civil engineering and professional consulting firm dedicated to helping communities reach their full potential. With numerous office locations across the Southeast United States, Waggoner is recognized for its innovative, multi-disciplinary services that extend far beyond traditional engineering.",Waggoner Engineering,"#348, #391","Engineering News-Record (ENR) Top 500 Design Firms, 2025, #348, #391, Waggoner Engineering, 1976, Southeast United States","#348, #391, 2025, 2024, 1976"
+https://www.grandviewresearch.com/industry-analysis/engineering-software-market,"Engineering Software Market Size | Industry Report, 2030","The global engineering software market size was estimated at USD 43.03 billion in 2024 and is projected to reach USD 125.45 billion by 2030, growing at a CAGR of 20.3% from 2025 to 2030. The increasing adoption of digital twin technology across industries drives growth. North America was the largest revenue-generating market in 2024, with the U.S. experiencing significant demand. The software segment dominated the market with a revenue share of 70.6%, while the on-premise segment held a 53.3% share.
+
+Digital twins enable businesses to monitor real-time performance and optimize operations. The shift toward cloud-based solutions offers remote accessibility and cost efficiency, appealing to small and medium-sized enterprises. The growth of 3D printing and additive manufacturing technologies also contributes to market expansion. Infrastructure modernization initiatives drive demand for architecture, engineering, and construction software, essential for planning and project management.
+
+The automotive segment led the market with a 28.8% revenue share in 2024, driven by autonomous driving technologies. The aerospace and defense segment is expected to register the fastest CAGR, focusing on modular systems design. North America held a significant share of around 34.2% in 2024, supported by strong R&D activities and a culture of innovation.",,"USD 43.03 billion, USD 125.45 billion, CAGR of 20.3%","USD 43.03 billion, USD 125.45 billion, 20.3%, 70.6%, 53.3%, 28.8%, 34.2%","USD 43.03 billion, USD 125.45 billion, CAGR of 20.3%, 70.6%, 53.3%, 28.8%, 34.2%"
+https://www.acec.org/wp-content/uploads/2024/10/ACEC-Research-Institute-2024-Economic-Assessment-Forecast-Final-1.pdf,No Title Found,No body found.,,,,
+https://www.sciencedaily.com/news/matter_energy/engineering/,Engineering News -- ScienceDaily,"Scientists in Innsbruck have made significant progress toward building the future internet by creating scalable quantum nodes that generate streams of entangled photons with 92% efficiency using calcium ions and lasers. In another breakthrough, researchers utilized a nanoparticle “megalibrary” to discover a catalyst that outperforms iridium in hydrogen fuel production. A new device called the Metafiber allows for ultra-precise control of light within optical fibers, enhancing applications in telecommunications.
+
+A Rochester team has engineered a solar thermoelectric generator that produces 15 times more power than previous models by improving heat absorption and dissipation. Inspired by ripple bugs, engineers developed the Rhagobot, a tiny robot with self-morphing fans that enhances speed and control. Researchers have also advanced quantum communication by using quantum dots and smart encryption protocols, overcoming a 40-year barrier.
+
+A novel quantum material has been introduced that stabilizes quantum computers by using magnetism to protect qubits from disturbances. Additionally, an AI tool named HEAT-ML identifies hidden safe zones in fusion reactors, crucial for operational safety. Scientists have discovered microscopic gold clusters that could revolutionize quantum computing due to their tunable properties.",Rochester,,"Innsbruck, calcium ions, lasers, nanoparticle “megalibrary”, iridium, hydrogen fuel production, Metafiber, telecommunications, Rochester, solar thermoelectric generator, 15 times, ripple bugs, Rhagobot, quantum dots, smart encryption protocols, 40-year barrier, novel quantum material, AI tool, HEAT-ML, fusion reactors, microscopic gold clusters, quantum computing, tunable properties",
+https://westwoodps.com/recent-blog-posts/2025-ma-industry-update,2025 M&A Industry Update,"Westwood Professional Services is navigating the evolving M&A landscape in the AEC industry. Chief Acquisition Officer Aaron Tippie and Director of Mergers & Acquisitions Trevor Garfield discuss trends and strategies shaping their approach. The AEC industry is experiencing a high volume of transactions, with forecasts suggesting around 450 deals in 2025. Private equity involvement is increasing, leading to heightened competition and pricing pressures, particularly in sectors like transportation, water, and energy.
+
+Despite a 25% decrease in public AEC firm valuations since November 2024, the market remains healthy. Firms are focusing on high-performing businesses in resilient sectors. Recent economic uncertainties have influenced selling decisions, particularly among private equity portfolio companies nearing the end of their hold period. Westwood is prioritizing relationship-building and maintaining strategic discipline to adapt to market changes.
+
+The M&A team aims to support recent integrations while pursuing partnerships that align with Westwood's portfolio. The firm remains committed to a culture-first philosophy, ensuring long-term success through meaningful connections and strategic investments.",Westwood Professional Services,"around 450 deals in 2025, 25% decrease in public AEC firm valuations since November 2024","AEC industry, 450 deals in 2025, 25% decrease in public AEC firm valuations since November 2024, transportation, water, energy","450 deals in 2025, 25% decrease in public AEC firm valuations since November 2024"
+https://www.cemexventures.com/top-50/,Top 50 Contech Startups 2025 | Cemex Ventures,"These are the 50 most promising startups of 2025 that are redefining the Contech ecosystem. Download the report with a review of industry investments in 2024, an outlook for 2025, and a map of the most promising startup solutions from the investment team at Cemex Ventures or scroll down to take a closer look at each startup and how they are innovating in each vertical.
+
+The construction industry has traditionally been passive in terms of innovation, digitalization, and new applications of technology. However, it has entered an era of change, where new business models are driving its revolution. According to McKinsey & Company, the adoption of new digital technologies in the construction sector can enhance competition and productivity by almost 15%. 
+
+Construction technology (Contech) startups are transforming the industry to become more sustainable, productive, efficient, and innovative. This year, our Top 50 list is more diverse than ever in terms of geography, technology, and the maturity of the startups included. We classified each startup into categories: Green Construction, Enhanced Productivity, Construction Supply Chain, and Future of Construction.
+
+For Cemex Ventures, fostering the construction revolution is about more than investing; it’s a commitment to build a journey towards success. When you are part of the Cemex Ventures family, you gain access to commercialization, expansion, and relationships with industry decision-makers within a global network.","Cemex Ventures, McKinsey & Company",15%,"""2024, 2025, Cemex Ventures, McKinsey & Company""","2025, 2024, 15%"
+https://www.acec.org/wp-content/uploads/2024/03/2021-2025-Engineering-Industry-Forecast.pdf,No Title Found,No body found.,,,,
+https://www.imaginarycloud.com/blog/top-product-engineering-companies,Top 10 Product Engineering Companies in 2025,"Imaginary Cloud designs scalable technology, ensuring reliable, user-centered solutions that drive seamless digital transformation for enterprises and scale-ups. They have received numerous honors, including Top 100 Fastest Growing Companies and UK Top B2B Company in 2021 & 2022.
+
+Services include:
+- Product ideation
+- Digital transformation
+- Scoping sessions
+- Product design process
+- Minimum viable product (MVP)
+- Web & mobile development
+- Artificial intelligence
+- UX/UI design
+- Code audit
+- UX audit
+
+Key clients: Neom, Eurofound, Nokia, Sage, and BNP Paribas. They maintain a 4.9-star rating on Clutch from 34 reviews, praised for timely delivery and responsiveness.
+
+Founded in 2010, Imaginary Cloud is based in London, with a team size of 50-249 and a price range of $50-$99/hr. Their culture emphasizes technical excellence, transparency, and a lean mindset, ensuring strong project ownership and communication.","Imaginary Cloud, Neom, Eurofound, Nokia, Sage, BNP Paribas",,"Top 100 Fastest Growing Companies, UK Top B2B Company, 2021, 2022","2021, 2022"
+https://eepower.com/news/category/industry-news/mergers-acquisitions/,Mergers & Acquisitions News - Power Engineering News,"Briefs: Companies Deal in Data Center Energy, EV Charging  
+Google, Eaton, Shell, Emobi, and ElectricFish have announced partnerships, deals, changes, and products for data center energy and electric vehicles.  
+
+Biz Briefs: Tech Companies Partner Up, Change Leaders, and More  
+Joint projects, acquisitions, and new leadership dominated recent business strategies in power grids, electric vehicles, SiC, and semiconductors.  
+
+Biz Briefs: Companies Grow in EV, AI, and Energy Sectors  
+TDK, Integrals Power, TerraPower, Scale Microgrids, and MAN Trucks are among the companies making acquisitions, raising funds, and expanding.  
+
+TE Connectivity Taps Harger for Grid Protection  
+TE Connectivity adds Harger’s expertise in protecting grid assets from electrical storms.  
+
+Intel, Renesas Make Strategic Moves in Power Semiconductors  
+Two major companies make acquisitions impacting wide bandgap semiconductors and software-defined vehicle technology for electric vehicles.  
+
+GE Partners With Greenwood for Power Grid Data Collection  
+GE acquires Greenbird Technologies to advance and integrate GE’s GridOS, a software suite for electrical power production and distribution plants.  
+
+GM Secures EV Hazard Detection With Start-Up Acquisition  
+General Motors makes a key acquisition to secure early hazard detection for its growing lineup of battery-powered electric vehicles.  
+
+Infineon to Acquire GaN Systems to Accelerate High Power, GaN Roadmap  
+With the acquisition of GaN Systems, Infineon will broaden its existing power portfolio and accelerate development.  
+
+Electric Vehicle Charging and Energy Management Supplier Makes Strategic Acquisition to Expand Services  
+The acquisition of COIL will position Wallbox closer to key partners through an expanded offering of installation and maintenance services for EVs.  
+
+Cirrus Logic to Acquire Lion Semiconductor for $335 Million  
+Cirrus Logic announces its agreement to acquire Lion Semiconductor to grow its mixed-signal business.  ","Google, Eaton, Shell, Emobi, ElectricFish, TDK, Integrals Power, TerraPower, Scale Microgrids, MAN Trucks, TE Connectivity, Harger, Intel, Renesas, GE, Greenbird Technologies, General Motors, Infineon, GaN Systems, Wallbox, COIL, Cirrus Logic, Lion Semiconductor",$335 Million,"Google, Eaton, Shell, Emobi, ElectricFish, TDK, Integrals Power, TerraPower, Scale Microgrids, MAN Trucks, TE Connectivity, Harger, Intel, Renesas, GE, Greenbird Technologies, General Motors, Infineon, GaN Systems, Wallbox, COIL, Cirrus Logic, Lion Semiconductor, $335 Million","General Motors, Cirrus Logic, Wallbox, Infineon, Google, Eaton, Shell, Emobi, ElectricFish, TDK, Integrals Power, TerraPower, Scale Microgrids, MAN Trucks, TE Connectivity, Harger, Intel, Renesas, GE, Greenwood, Greenbird Technologies, GaN Systems, Lion Semiconductor, $335 Million"
+https://topworkplaces.com/award/engineering/2025/,United States Best Companies to Work for 2025 | Top Workplaces,"Engineering.com has recognized 35 employers as Top Workplaces for Engineering for 2025.
+
+1. **LJA Engineering, Inc.**  
+   500+ employees  
+   HOUSTON, TX  
+   LJA is an employee-owned, full-service, comprehensive multi-disciplinary consulting firm.
+
+2. **Infrastructure Consulting & Engineering, LLC**  
+   500+ employees  
+   West Columbia, SC  
+   We are a team of passionate problem solvers dedicated to delivering innovative solutions.
+
+3. **The Haskell Company**  
+   500+ employees  
+   Jacksonville, FL  
+   Haskell embodies a spirit of innovation and assurance of certainty.
+
+4. **Sargent & Lundy**  
+   500+ employees  
+   Chicago, IL  
+   One of the world’s longest-standing full-service architect engineering firms, founded in 1891.
+
+5. **Ulteig**  
+   500+ employees  
+   Fargo, ND  
+   A forward-thinking leader in the engineering industry focused on client success.
+
+6. **EOG Resources, Inc.**  
+   500+ employees  
+   Houston, TX  
+   One of the largest exploration and production companies in the U.S.
+
+7. **Stanley Consultants**  
+   500+ employees  
+   Muscatine, IA  
+   Helping clients solve essential and complex energy and infrastructure challenges since 1913.
+
+8. **Bechtel Plant Machinery, Inc. (BPMI)**  
+   500+ employees  
+   Monroeville, PA  
+   A prime contractor for the Naval Nuclear Propulsion Program.
+
+9. **DRMP, Inc.**  
+   500+ employees  
+   Orlando, FL  
+   Founded in 1977 by engineers and surveyors offering innovative solutions.
+
+10. **Orbital Engineering, Inc.**  
+    500+ employees  
+    Pittsburgh, PA  
+    Committed to creating, improving, and sustaining industry and infrastructure.","LJA Engineering, Inc., Infrastructure Consulting & Engineering, LLC, The Haskell Company, Sargent & Lundy, Ulteig, EOG Resources, Inc., Stanley Consultants, Bechtel Plant Machinery, Inc. (BPMI), DRMP, Inc., Orbital Engineering, Inc.",500+ employees,"LJA Engineering, Inc., Infrastructure Consulting & Engineering, LLC, The Haskell Company, Sargent & Lundy, Ulteig, EOG Resources, Inc., Stanley Consultants, Bechtel Plant Machinery, Inc. (BPMI), DRMP, Inc., Orbital Engineering, Inc.","LJA Engineering, Inc., Infrastructure Consulting & Engineering, LLC, The Haskell Company, Sargent & Lundy, Ulteig, EOG Resources, Inc., Stanley Consultants, Bechtel Plant Machinery, Inc. (BPMI), DRMP, Inc., Orbital Engineering, Inc."
+https://www.excelsior.edu/article/innovations-in-electrical-engineering/,Recent Innovations in Electrical Engineering Technology,"Advances in electrical engineering help increase the economy, improve safety and health care, solve global challenges, and create a more connected future. Recent technologies include:
+
+**Smart Grids**: These utilize digital communication and automation to manage electricity generation and consumption. They adapt to real-time changes, incorporate renewable energy sources, and allow consumers to generate and sell surplus electricity back to the grid.
+
+**Energy Storage Systems (ESS)**: ESS store energy for use when renewable sources like solar and wind aren't producing. They come in various forms, including batteries and pumped hydropower, enhancing capacity and cost-effectiveness.
+
+**Artificial Intelligence (AI)**: AI improves efficiency and reliability in electrical engineering by analyzing data for maintenance scheduling and optimizing energy flow. It is also used in circuit design and energy forecasting.
+
+**The Internet of Things (IoT)**: IoT connects devices that collect and share data, essential for smart grids and smart cities. Innovations like 5G technology boost the adoption of IoT products.
+
+**Electric Vehicles (EVs)**: EVs are becoming more significant with advancements in battery technology and charging infrastructure, contributing to reduced emissions and dependency on fossil fuels.
+
+The demand for electrical engineers will rise as industries adopt these rapidly advancing technologies. Pursuing a degree in electrical engineering technology can lead to a rewarding career in this growing field.",,,"Smart Grids, Energy Storage Systems (ESS), Artificial Intelligence (AI), The Internet of Things (IoT), Electric Vehicles (EVs)","Smart Grids, Energy Storage Systems (ESS), Artificial Intelligence (AI), The Internet of Things (IoT), Electric Vehicles (EVs)"
+https://careers.intuitive.com/en/employee-stories/career-growth-advice/the-future-of-engineering-careers-emerging-trends-and-opportunities/,The Future of Engineering Careers: Trends & Opportunities,"Engineers are at the forefront of innovation, helping advance society and solve significant problems. They push the boundaries of what's possible in technology, construction, manufacturing, and medicine. As new technologies emerge, the demand for skilled engineers in various fields grows.
+
+The U.S. Bureau of Labor and Statistics predicts that the engineering job market may grow by 8.6% by 2033, with around 195,000 new job openings expected each year. Industrial engineering is expected to grow by 12% with a median annual wage of $99,380. Mechanical engineering is projected to grow by 11% with a median wage of $99,510. Chemical engineering is expected to grow by 10% with a median wage of $112,100, while electrical engineering is projected to grow by 9% with a median wage of $109,010.
+
+Technological advancements are a key reason for the rapid growth of engineering employment opportunities. In-demand technology skills include automation and robotics, AI and machine learning, 3D printing, digital twins, nanotechnology, and the Internet of Things (IoT).
+
+Emerging engineering career pathways include biomedical engineering, environmental engineering, renewable energy engineering, automation manufacturing engineering, AI and machine learning engineering, robotics engineering, and computer hardware engineering. At Intuitive, we hire problem solvers to build the future of minimally invasive care. If you share our passion for healthcare technology and innovation, consider applying for an engineering position at Intuitive.",Intuitive,"8.6%, 195,000, 12%, $99,380, 11%, $99,510, 10%, $112,100, 9%, $109,010","Engineering job market may grow by 8.6% by 2033, 195,000 new job openings expected each year, Industrial engineering is expected to grow by 12%, median annual wage of $99,380, Mechanical engineering is projected to grow by 11%, median wage of $99,510, Chemical engineering is expected to grow by 10%, median wage of $112,100, electrical engineering is projected to grow by 9%, median wage of $109,010","8.6% by 2033, 195,000, 12%, $99,380, 11%, $99,510, 10%, $112,100, 9%, $109,010"
+https://www.elsevier.com/resources/10-major-engineering-challenges-of-the-next-decade,10 major engineering challenges of the next decade,"Challenges related to climate change continue to threaten the world's population. Solutions exist, and engineers will play a major role in solving them. Here are 10 major challenges and what engineers can do about them in 2023.
+
+1. Upgrading the aging U.S. infrastructure. The American Society of Civil Engineers gives our infrastructure a C- grade and estimates that the U.S. is spending just over half of what is needed. Significant action is needed to bring our roads, bridges, water, electrical, and sewage systems to proper safe working order.
+
+2. Educating first world engineers to understand how to solve third world problems. The world’s population will grow by two billion over the next two decades, 95% of this in developing countries. Engineers must learn new ways to solve problems in these regions.
+
+3. Promoting green engineering to improve sustainability and reduce the carbon footprint in manufacturing. Manufacturing in the U.S. produced significant amounts of carbon dioxide.
+
+4. Identifying viable and renewable energy sources. Contributions to our energy production from renewables are growing and will contribute significantly by 2035.
+
+5. Rethinking how cities look and work. 54% of the world’s population lives in cities, with Europe leading in sustainability.
+
+6. Making STEM more appealing to young students. The U.S. will have more than 1.2 million unfilled STEM jobs.
+
+7. Safeguarding personal data and wealth from cyberattacks. A significant percentage of data breaches happen at financial institutions.
+
+8. Addressing climate change through engineering innovation. Major cities face increasing flood costs.
+
+9. Feeding our growing population through bio-engineering and agricultural innovations. The U.N. warns that we must produce 60% more food by 2050.
+
+10. Improving health and well-being through life sciences and bio-engineering. The aging population will increase pressure on drug creation and innovative engineering techniques.","American Society of Civil Engineers, U.N.","$2 billion increase in the world's population over the next two decades, 1.2 million unfilled STEM jobs, 60% more food by 2050","1. Upgrading the aging U.S. infrastructure
+2. Educating first world engineers to understand how to solve third world problems
+3. Promoting green engineering to improve sustainability and reduce the carbon footprint in manufacturing
+4. Identifying viable and renewable energy sources
+5. Rethinking how cities look and work
+6. Making STEM more appealing to young students
+7. Safeguarding personal data and wealth from cyberattacks
+8. Addressing climate change through engineering innovation
+9. Feeding our growing population through bio-engineering and agricultural innovations
+10. Improving health and well-being through life sciences and bio-engineering","U.S., developing countries, 2035, 54%, 1.2 million, 60% by 2050"
+https://www.marketsandmarkets.com/Market-Reports/product-engineering-services-market-227956689.html,Product Engineering Services Market Size Share | Industry Analysis Report [2032]  ,"The global product engineering services (PES) market is projected to grow from approximately USD 1,297.71 billion in 2025 to USD 1,800.45 billion by 2030, with a CAGR of 6.8%. This growth is driven by advancements in automotive technology, demand for connected mobility, and intelligent systems across various industries. Original Equipment Manufacturers (OEMs) are increasingly seeking PES vendors for specialized services in prototyping, embedded systems, and digital product innovation. The automotive sector is a significant market driver, with OEMs and Tier 1 suppliers expected to invest over USD 270 billion in R&D and digital development between 2023 and 2027. 
+
+Generative Artificial Intelligence (Gen AI) is reshaping engineering workflows, reducing development cycles, and optimizing resource utilization. PES providers must adapt to the rising complexity of DevOps environments and fragmented toolchains, which threaten efficiency. The semiconductor and embedded systems development surge presents a significant opportunity for PES providers, particularly in areas like AI-integrated hardware testing and hybrid systems. 
+
+Asia Pacific is anticipated to register the highest CAGR, driven by talent availability and government support, making it a strategic region for PES vendors.","OEMs, Tier 1 suppliers","""approximately USD 1,297.71 billion in 2025, USD 1,800.45 billion by 2030, CAGR of 6.8%, over USD 270 billion in R&D and digital development between 2023 and 2027""","USD 1,297.71 billion in 2025, USD 1,800.45 billion by 2030, 6.8%, over USD 270 billion in R&D and digital development between 2023 and 2027, Asia Pacific","USD 1,297.71 billion, USD 1,800.45 billion, 6.8%, over USD 270 billion, 2023, 2027, Asia Pacific"
+https://www.startus-insights.com/innovators-guide/civil-engineering-industry-trends/,Top 10 Civil Engineering Industry Trends in 2025 | StartUs Insights,"Solutions include Discovery Platform, Innovation Scouting, Startup Scouting, Technology Scouting, Tech Supplier Scouting, Venture Clienting, Startup Program, Trend Intelligence, Business Intelligence, and Deal Flow. Industries covered are Automotive, Chemical, Construction, Electronics, Energy, Finance, Healthcare, Industry 4.0, Logistics, Manufacturing, Materials, Mobility, Packaging, Pharma, and Retail.
+
+Key trends in civil engineering for 2025 include Building Information Modeling (BIM), Green Building Materials, Renewable Energy Integration, Advanced Robotics, Geographic Information Systems (GIS), Modular Construction, Structural Monitoring, 3D Printing, Advanced Materials, and Disaster Management. 
+
+Startups like D.TO and SeveUp are advancing BIM solutions, while Respyre and Nexii focus on sustainable building materials. Traverse Technologies and Continuum Industries are integrating renewable energy solutions, and KEWAZO and PaceRobotics are enhancing construction efficiency through robotics. 
+
+The global structural health monitoring market is projected to grow significantly, driven by innovations in sensor technologies and machine learning. The 3D printing construction market is also expected to expand rapidly, offering new possibilities in material usage and design efficiency.","D.TO, SeveUp, Respyre, Nexii, Traverse Technologies, Continuum Industries, KEWAZO, PaceRobotics","Global structural health monitoring market, 3D printing construction market","Automotive, Chemical, Construction, Electronics, Energy, Finance, Healthcare, Industry 4.0, Logistics, Manufacturing, Materials, Mobility, Packaging, Pharma, Retail","Building Information Modeling (BIM), Green Building Materials, Renewable Energy Integration, Advanced Robotics, Geographic Information Systems (GIS), Modular Construction, Structural Monitoring, 3D Printing, Advanced Materials, Disaster Management"
+https://www.allstacks.com/engineering-investment,Engineering Investment,"Know where and how much you’re investing at all levels. Allstacks Investment Intelligence lets you see exactly where engineering time goes – without any guesswork. 
+
+View engineering clearly for the first time and eliminate the gap between intended effort and actual results. Visualize your investments with a comprehensive view of engineering time spent, team focus, and cost. Analyze historic trends to understand how costs change over time and compare the impact on deployable resources to your current reality. Report out to the executive level by distilling complex data into concise, digestible views for easy reporting.
+
+Track investments in real time and see where you’re investing by category or initiative for all work items. Strategically align engineering efforts to balance key business objectives and KTLO work. Dominate your next board meeting by packaging your investment data into a simple, consumable format ready for presentations. Compare allocations across teams to identify which teams are staying on budget and focused on strategic work. 
+
+Leverage alert-driven guardrails to get notified before projects or teams exceed the planned budget. Make data-informed decisions with reliable, consistent data. Drill down into data at-will to pinpoint the source of misalignment when teams are struggling. Export your financial data to generate reports that quantify engineering effort in real dollars. Balance team workloads to help managers prevent burnout and underutilization.",Allstacks,,Allstacks Investment Intelligence,"economic trends, investments, engineering time, costs, deployable resources, budgets, strategic work"
+https://www.enr.com/toplists,Engineering News-Record Top Lists,"ENR attempts to bring structure to the chaotic construction industry by performing annual surveys of its key segments and ranking companies engaged in general contracting, specialty contracting, engineering, architecture, and environmental services. The rankings are based on annual revenue at home and abroad, further divided into specific market categories. 
+
+ENR Sourcebooks take market analysis to a more detailed level by ranking industry leaders in particular market subsets. The Top 500 Design Firms list ranks the 500 largest U.S.-based design firms based on design-specific revenue. The Top 400 Contractors list ranks the 400 largest U.S.-based general contractors based on construction contracting-specific revenue. 
+
+ENR's list of the Top 200 Environmental Firms provides a look at key players in the global environmental services market, while the Top 100 Green Design Firms ranks the largest U.S.-based design firms based on sustainable projects. The Top 250 International Contractors list ranks the largest world construction contractors based on general construction contracting export revenue. 
+
+These rankings provide valuable insights into industry trends and performance metrics.",ENR,"Top 500 Design Firms, Top 400 Contractors, Top 200 Environmental Firms, Top 100 Green Design Firms, Top 250 International Contractors","Top 500 Design Firms, Top 400 Contractors, Top 200 Environmental Firms, Top 100 Green Design Firms, Top 250 International Contractors","Top 500 Design Firms, Top 400 Contractors, Top 200 Environmental Firms, Top 100 Green Design Firms, Top 250 International Contractors"
+https://www.deloitte.com/us/en/insights/industry/engineering-and-construction/engineering-and-construction-industry-outlook.html,2025 Engineering and Construction Industry Outlook | Deloitte Insights,"Deloitte Insights and our research centers deliver proprietary research designed to help organizations turn their aspirations into action. The construction industry in 2024 was defined by strong fundamentals, marked by a 10% increase in nominal value added and a 12% increase in gross output. Construction spending crossed US$2 trillion and maintained a balanced trajectory in the first half of 2024. Despite facing a talent shortage, the sector’s employment level reached 8.3 million in July 2024, surpassing its previous peak of 7.7 million from 2006. The Dodge Momentum Index (DMI) has been on a steady rise in the second quarter of 2024, reflecting growing confidence among owners and developers.
+
+High interest rates and price inflation continue to affect the residential and commercial segments. However, construction investment, largely driven by government investments, may provide relief over the next few quarters. Looking ahead to 2025, short-term interest rates are likely to decrease gradually, following a 50 basis point cut by the Federal Reserve in September 2024. The improving economic conditions are likely to influence construction demand across various segments, with government investments expected to drive growth in manufacturing and energy.",Deloitte,"US$2 trillion, 10%, 12%, 8.3 million, 7.7 million","Deloitte Insights, construction industry, 10% increase, 12% increase, US$2 trillion, 8.3 million, 7.7 million, Dodge Momentum Index, high interest rates, price inflation, construction investment, government investments, 2025, 50 basis point cut, Federal Reserve, improving economic conditions","10% increase in nominal value added, 12% increase in gross output, US$2 trillion, 8.3 million in July 2024, 7.7 million from 2006, Dodge Momentum Index, 50 basis point cut by the Federal Reserve in September 2024"
+https://www.morrisseygoodale.com/mergers-acquisitions-advisory/ma-advisory-results/,Mergers & Acquisitions Advisory Results | Morrissey Goodale,"Morrissey Goodale is the leading advisor for firm transactions, working with AE clients to achieve their strategic goals through mergers and acquisitions. 
+
+305 Completed Transactions
+
+Morrissey Goodale initiated the transaction and advised Siefert Associates in Watertown, CT, and Norwood, MA, in September 2025. In Walnut Creek, CA, and Orlando, FL, they advised dk Engineering in September 2025. They also advised Ardurra in Miami, FL, and Nashville, TN, in September 2025. 
+
+In August 2025, they advised Atwell in Southfield, MI, and Lincolnshire, IL, and Engineering Analytics in Fort Collins, CO, and Vancouver, WA. They facilitated a majority stake acquisition for Atwell in Washougal, WA, and provided advisory services to Lochner in a merger between Chicago, IL, and Guyancourt, France. 
+
+Morrissey Goodale has a strong track record of advising firms across various states, including strategic investments, acquisitions, and mergers, contributing to the growth and success of their clients in the AE industry.","Morrissey Goodale, Siefert Associates, dk Engineering, Ardurra, Atwell, Engineering Analytics, Lochner",305 Completed Transactions,305 Completed Transactions,"305 Completed Transactions, September 2025, August 2025"
+https://www.metastatinsight.com/report/engineering-services-market,"Engineering Services Market Size & Share Analysis Report, 2032","The global engineering services market is a critical component of the infrastructure and industrial construction business, aiding in the design, planning, execution, and maintenance of complex projects worldwide. The market is expected to reach $2,318,812.21 million by 2032, growing at a CAGR of 4.2% from 2025 to 2032. 
+
+The demand for engineering services is driven by the need for infrastructure development and industrial automation. Countries are investing in advanced infrastructure and smart cities, creating a need for specialized engineering support. Offshore product design and development are also significant growth factors, allowing firms to reduce costs and focus on core competencies. 
+
+However, challenges include a shortage of qualified professionals in engineering fields and an overreliance on project-based revenues, which can lead to income uncertainty. Opportunities lie in the integration of digital engineering, AI, and simulation tools, which can enhance service offerings and efficiency. 
+
+The market is segmented by engineering disciplines, delivery models, services, and industries, with key players including AECOM, Bechtel, and WSP Global. The competitive landscape is evolving, with a focus on sustainability and innovation driving future growth.","AECOM, Bechtel, WSP Global","$2,318,812.21 million by 2032, 4.2% from 2025 to 2032","$2,318,812.21 million by 2032, 4.2% from 2025 to 2032, AECOM, Bechtel, WSP Global","$2,318,812.21 million by 2032, 4.2% from 2025 to 2032"
+https://www.iconiqcapital.com/growth/insights/future-proof-insights-from-our-2024-ai-engineering-summit,ICONIQ | Future Proof: Insights from our 2024 AI & Engineering Summit,"In the rapidly evolving landscape of technology, staying ahead requires foresight and adaptability. Recently, we brought together over 100 leading technologists in the Bay Area for our third annual Engineering Summit: Future Proof. This year’s theme centered around preparing engineering organizations to embrace the future, focusing on critical topics such as engineering innovation under constraints, scaling teams effectively, and harnessing the power of AI.
+
+For the past few years, tech companies have entered a new reality of hyper-efficiency; engineering budgets are under increased scrutiny, and each hire needs justification. Unlike other functions that can trace investments back to a clear ROI, engineering can sometimes feel like a black box. Panelists emphasized the importance of understanding customer needs, setting clear boundaries for project timelines and resources, and encouraging out-of-the-box thinking to boost efficiency.
+
+Investing in developer tooling is vital. Most organizations underestimate the leverage it can provide. It's suggested that utilizing a small portion of the engineering team to streamline the toolchain can significantly enhance overall efficiency. As technology development outpaces organizational growth, creating a conducive coding environment is essential to reduce frustration and enhance productivity.",No specific company names mentioned.,,Engineering Summit: Future Proof,"hyper-efficiency, increased scrutiny on engineering budgets"
+https://builtin.com/software-engineering-perspectives/engineering-companies,51 Top Engineering Companies to Know | Built In,"Engineers build the world around us, and the profession remains a safe bet. According to the Bureau of Labor Statistics, engineering jobs are expected to grow by 4 percent through 2031, resulting in 91,300 new jobs and an additional 200,900 vacancies as employees retire. The global engineering industry relies on top talent to invent sustainable decarbonization strategies, design smarter living solutions, and save crumbling infrastructure.
+
+Leading engineering companies include Siemens, ABB, Hitachi, and China State Construction Engineering. For instance, Siemens operates in 190 countries, focusing on industry, energy, infrastructure, transport, and healthcare, while ABB specializes in electrification and automation technologies. 
+
+Caliola Engineering, a woman-owned small business, solves mission-critical problems for the U.S. government. Dropbox offers file hosting software for seamless file sharing, while Gusto provides HR software for payment and benefits management. 
+
+Companies like Altium and Bectran optimize technology for electronics and credit operations, respectively. The engineering sector is diverse, with firms like ServiceNow and Samsara developing AI-powered solutions for various industries.","Siemens, ABB, Hitachi, China State Construction Engineering, Caliola Engineering, Dropbox, Gusto, Altium, Bectran, ServiceNow, Samsara","91,300, 200,900","Siemens, ABB, Hitachi, China State Construction Engineering, Caliola Engineering, Dropbox, Gusto, Altium, Bectran, ServiceNow, Samsara","4 percent through 2031, 91,300 new jobs, 200,900 vacancies"
+https://www.ventureatlanta.org/top-startup-industries-2025/,Top 11 Startup Industries 2025 | Venture Atlanta,"Applications to pitch at VA 2025 close 8/8! 
+
+The startup industry in 2025 is more dynamic and competitive than ever. Founders are navigating a landscape defined by emerging technologies, global challenges, and shifting investor priorities. 
+
+Artificial Intelligence (AI) continues to dominate, with startups securing a record $32.9 billion in funding in early 2025. Companies like Cognition AI are developing AI agents capable of complex tasks independently. 
+
+Fintech remains a strong industry, with over 29,955 startups globally and a projected market size of $686.85 billion by 2030. It drives innovation through embedded finance and decentralized finance ecosystems. 
+
+Healthtech is seeing a surge in funding, with a 30.4% increase in Q1 2025, focusing on preventative care and personalized health data platforms. 
+
+The logistics industry is transforming, projected to grow from $11.23 trillion in 2025 to $23.14 trillion by 2034, driven by advancements in supply chain tech and e-commerce. 
+
+Life sciences is booming, with the market expected to grow from $88.15 billion in 2024 to $239.56 billion by 2033, leading innovations in biotechnology and precision medicine. 
+
+Cybersecurity is critical, with the market projected to grow from $245.62 billion in 2024 to $500.70 billion by 2030. 
+
+Startups aligning with these trends will shape the future of business and society. Register for Venture Atlanta 2025 to see emerging tech companies!",Cognition AI,"$686.85 billion by 2030, $11.23 trillion in 2025 to $23.14 trillion by 2034, $88.15 billion in 2024 to $239.56 billion by 2033, $245.62 billion in 2024 to $500.70 billion by 2030","Artificial Intelligence, Fintech, Healthtech, Logistics, Life sciences, Cybersecurity","$32.9 billion, over 29,955, $686.85 billion, 30.4%, $11.23 trillion, $23.14 trillion, $88.15 billion, $239.56 billion, $245.62 billion, $500.70 billion"
+https://www.ibisworld.com/united-states/market-size/engineering-services/1403/,Engineering Services in the US Market Size Statistics | IBISWorld,"Analyze industry trends, market size, and key drivers to make informed decisions. 
+
+Competitive Benchmarking allows you to compare competitors' performance, strengths, and market positioning. 
+
+Risk Assessments help assess the source and severity of risks, providing early warnings when risk is on the rise. 
+
+Data Analysis Tools enable comparison and analysis across industries for a holistic view of your portfolio. 
+
+Discover multiple ways to access and integrate key industry data and insights through various platforms and integrations. 
+
+Access current year market size data for Engineering Services in the US, with a market size of $350.8 billion in 2025, reflecting a growth rate of 1.0%. 
+
+The market size of Engineering Services in the US has grown at a 5.3% CAGR between 2019 and 2024. 
+
+Our analysts spend hundreds of hours poring over statistics and trends, providing comprehensive insights into the Engineering Services industry. 
+
+Explore related businesses and their market sizes, including Construction, Architects, and IT Consulting in the US. 
+
+Contact us to learn how an IBISWorld Membership can enhance your industry expertise. Trusted by over 10,000 clients globally.",IBISWorld,"$350.8 billion in 2025, 5.3% CAGR between 2019 and 2024","$350.8 billion in 2025, 5.3% CAGR between 2019 and 2024","$350.8 billion in 2025, 1.0%, 5.3% CAGR between 2019 and 2024"
+https://www.forbes.com/sites/amyfeldman/2025/08/12/next-billion-dollar-startups-2025/,Forbes Next Billion-Dollar Startups 2025,"Artificial intelligence dominates this year’s list of 25 venture-backed startups most likely to reach a $1 billion valuation. This is the 11th year partnering with TrueBridge Capital Partners to identify budding unicorns. To qualify, startups must be venture-backed, based in the U.S., and worth less than $1 billion. Unsurprisingly, 20 of the 25 companies are AI-focused, with applications in military, accounting, and health tech. Our track record is superb; of the 250 alumni, 140 became unicorns, including DoorDash and Figma. 
+
+AcuityMD helps manufacturers find the right physicians using de-identified data for 325 million people. Agentio offers a marketplace for brands to find influencers for ad campaigns. Apex aims to standardize satellite production, winning a $46 million Space Force contract. Assort Health sells a text-to-voice AI chatbot to match physicians' openings with appointment types, reducing wait times significantly. Basis provides AI accounting software that streamlines clerical tasks, while Braintrust offers a command center for testing AI-powered apps.","TrueBridge Capital Partners, DoorDash, Figma, AcuityMD, Agentio, Apex, Assort Health, Basis, Braintrust","$1 billion, 25, 250, 140, 325 million, $46 million","Artificial intelligence, $1 billion valuation, 25 venture-backed startups, 11th year, TrueBridge Capital Partners, 20 of the 25 companies, military, accounting, health tech, 250 alumni, 140 became unicorns, DoorDash, Figma, AcuityMD, Agentio, Apex, $46 million, Space Force, Assort Health, Basis, Braintrust","20, 25, $1 billion, 250, 140, $46 million, 325 million"
+https://www.deloitte.com/us/en/insights/industry/engineering-and-construction.html,Engineering and Construction | Deloitte Insights,"Deloitte Insights and our research centers deliver proprietary research designed to help organizations turn their aspirations into action. The Deloitte Research Center for Energy & Industrials combines rigorous research with industry-specific knowledge and practice-led experience to deliver insights that can drive business impact. The energy, resources, and industrials industry is crucial for building, powering, and securing the smart, connected world of tomorrow. Our research uncovers opportunities that can help businesses thrive.
+
+Kate Hardin is the executive director of the Deloitte Research Center for Energy & Industrials, leading research across energy and industrial manufacturing. Clayton Wilkerson, chief of staff, has over 20 years of experience in research and insights. Anshu Mittal advises on policy and strategy issues in the energy value chain. Jaya Nagdeo focuses on energy transition and operational performance. John Morehouse assists companies in innovating products and processes. Ashlee Christian leads projects in natural gas and sustainability. Carolyn Amon develops decarbonization strategies. Scott Welch translates market trends into thought leadership across sectors. Elsie Hung drives interdisciplinary energy policy research.",Deloitte,,"Deloitte Research Center for Energy & Industrials, energy, resources, industrials, energy transition, natural gas, sustainability, decarbonization strategies","energy, resources, and industrials industry"
+https://www.precedenceresearch.com/engineering-services-outsourcing-market,Engineering Services Outsourcing Market Size to Hit USD 11.35 Trn by 2034,"The global engineering services outsourcing market size accounted for USD 2.57 trillion in 2025 and is forecasted to hit around USD 11.35 trillion by 2034, representing a CAGR of 17.92% from 2025 to 2034. The North America market size was estimated at USD 692.78 billion in 2024, expanding at a CAGR of 17.55% during the forecast period. North America generated more than 32.28% of revenue share in 2024. The testing segment contributed over 31.64% of revenue share in 2024, while the designing segment is expected to expand at the fastest CAGR of 18.33% from 2025 to 2034. The U.S. engineering services outsourcing market size was USD 277.11 billion in 2024, projected to reach around USD 1,522.92 billion by 2034, growing at a CAGR of 18.37%. The Asia-Pacific region dominates market growth, driven by local outsourcing demand and robust manufacturing bases in countries like China and India. The healthcare segment is expected to grow at a CAGR of around 19.15% over the forecast period, fueled by investments in medical technology and partnerships with engineering service providers.",,"USD 2.57 trillion in 2025, USD 11.35 trillion by 2034, USD 692.78 billion in 2024, USD 277.11 billion in 2024, USD 1,522.92 billion by 2034","USD 2.57 trillion, USD 11.35 trillion, 17.92%, USD 692.78 billion, 17.55%, 32.28%, 31.64%, 18.33%, USD 277.11 billion, USD 1,522.92 billion, 18.37%, 19.15%","USD 2.57 trillion, USD 11.35 trillion, CAGR of 17.92%, USD 692.78 billion, CAGR of 17.55%, 32.28%, 31.64%, CAGR of 18.33%, USD 277.11 billion, USD 1,522.92 billion, CAGR of 18.37%, CAGR of around 19.15%"
+https://tlo.mit.edu/industry-entrepreneurs/startups,Our Startups | MIT Technology Licensing Office,"Discover our evolving showcase of innovative startups that are leveraging MIT's intellectual property to drive impactful solutions.
+
+**Technology Areas:**
+- Agriculture & Food
+- Artificial Intelligence (AI) and Machine Learning (ML)
+- Biomaterials & Bioelectronics
+- Biotechnology
+- Chemicals & Materials
+- Communication Systems
+- Computer Science
+- Diagnostics
+- Drug Delivery
+- Drug Discovery and Research Tools
+- Electronics & Photonics
+- Energy & Distribution
+- Environmental Engineering
+- Industrial Engineering & Automation
+- Sensing & Imaging
+- Therapeutics
+
+**Impact Areas:**
+- Healthy Living
+- Uncharted Frontiers
+- Climate Stabilization
+- Sustainable Future
+- Connected World
+- Advanced Materials
+
+**Active Startups:**
+- Alterego Ai (AI and ML, Computer Science)
+- Cellarray (Biomaterials, Biotechnology, Drug Discovery)
+- Crabi Robotics (Industrial Engineering)
+- Electrified Thermal Solutions (Chemicals, Energy)
+- Emvolon (Chemicals, Environmental Engineering)
+- Found Energy (Chemicals, Energy)
+- IDX20 (Biotechnology, Communication Systems)
+- MuscleMetrix (Biomaterials, Biotechnology, Computer Science)
+- Myconic (Agriculture, Chemicals)
+- Neurobionics (Biomaterials, Biotechnology)
+- Nona Technologies (Environmental Engineering)
+- Omnipulse Biosciences (Biotechnology, Drug Delivery)
+- OptiCore (Communication Systems, Computer Science)
+
+Established in 1986, the Technology Licensing Office (TLO) helps identify, protect, market, and license MIT’s intellectual property, moving innovations from the lab to the marketplace for public benefit. Visit tlo.mit.edu.","Alterego Ai, Cellarray, Crabi Robotics, Electrified Thermal Solutions, Emvolon, Found Energy, IDX20, MuscleMetrix, Myconic, Neurobionics, Nona Technologies, Omnipulse Biosciences, OptiCore",,"Agriculture & Food, Artificial Intelligence (AI) and Machine Learning (ML), Biomaterials & Bioelectronics, Biotechnology, Chemicals & Materials, Communication Systems, Computer Science, Diagnostics, Drug Delivery, Drug Discovery and Research Tools, Electronics & Photonics, Energy & Distribution, Environmental Engineering, Industrial Engineering & Automation, Sensing & Imaging, Therapeutics, Healthy Living, Uncharted Frontiers, Climate Stabilization, Sustainable Future, Connected World, Advanced Materials","- Agriculture & Food, Artificial Intelligence (AI) and Machine Learning (ML), Biomaterials & Bioelectronics, Biotechnology, Chemicals & Materials, Communication Systems, Computer Science, Diagnostics, Drug Delivery, Drug Discovery and Research Tools, Electronics & Photonics, Energy & Distribution, Environmental Engineering, Industrial Engineering & Automation, Sensing & Imaging, Therapeutics
+
+- Healthy Living, Uncharted Frontiers, Climate Stabilization, Sustainable Future, Connected World, Advanced Materials
+
+- Alterego Ai, Cellarray, Crabi Robotics, Electrified Thermal Solutions, Emvolon, Found Energy, IDX20, MuscleMetrix, Myconic, Neurobionics, Nona Technologies, Omnipulse Biosciences, OptiCore
+
+- 1986"
+https://www.mosaicapp.com/post/35-top-engineering-companies-for-2022,35 Top Engineering Companies for 2022,"Proudly ranked #226 on the 2024 Inc. 5000 Fastest-Growing Companies in America.
+
+Mosaic is something you really have to see for yourself. 
+
+Engineering services represent roughly $262 billion in annual revenue in the US alone, according to the US Department of Commerce’s Select USA program. More than 75,000 firms contribute to this market. Even though there are a few industry giants, IBISWorld reports that not even the top engineering firms have more than a 5% market share.
+
+There are four main branches of engineering—civil, mechanical, electrical, and chemical—with many large firms providing services in more than one area. Because engineering goes hand-in-hand with architecture and construction, the biggest engineering firms often have full-scale architecture and construction divisions.
+
+Below, we’ve listed 30 of the top engineering firms in the US, based on revenue figures reported by ZoomInfo. This list represents firms that focus primarily on engineering versus the larger full-service conglomerates.
+
+Only five firms generate a billion dollars or more in annual revenue: Tetra Tech, Arup, Arcadis, Golder, and M.C. Dean. 
+
+The future for the global engineering services market is bright. It’s expected to reach $2 trillion by 2026. With the right approach, there are still plenty of opportunities for up-and-coming firms to secure their positions as top engineering companies.","Mosaic, Tetra Tech, Arup, Arcadis, Golder, M.C. Dean","$262 billion, $2 trillion","$262 billion, $2 trillion, 30, 5, Tetra Tech, Arup, Arcadis, Golder, M.C. Dean","$262 billion, $2 trillion by 2026"
+https://www.factmr.com/report/engineering-services-market,"Engineering Services Market Size, Trends, Statistics 2034","The global engineering services market is estimated at US$ 1,801.75 billion in 2024, projected to expand at a 7.6% CAGR to reach US$ 3,756.09 billion by 2034. Companies, particularly in South Asia & Pacific and East Asia, are increasingly outsourcing engineering services to acquire specialist knowledge and lower operating expenses. Investment in research and development is essential for competitiveness, particularly in high-tech sectors like healthcare and IT.
+
+Smart manufacturing processes are being implemented across industries through technologies like automation and data analytics, increasing demand for engineering services. Government support for infrastructure and industrial development projects is further driving market growth. The requirement for advanced infrastructure, such as smart cities and transit systems, is rising due to urbanization.
+
+The automotive and aerospace sectors are innovating, relying on engineering services for the development of electric vehicles and autonomous driving technologies. The energy and power sector is also experiencing growth due to the demand for renewable energy sources and energy-efficient systems.",No specific company names are mentioned in the text.,"US$ 1,801.75 billion in 2024, US$ 3,756.09 billion by 2034","US$ 1,801.75 billion, US$ 3,756.09 billion, 7.6% CAGR, South Asia & Pacific, East Asia, healthcare, IT, smart manufacturing, automation, data analytics, automotive, aerospace, electric vehicles, autonomous driving, energy, power, renewable energy, energy-efficient systems","US$ 1,801.75 billion, 7.6%, US$ 3,756.09 billion, 2034"
+https://interestingengineering.com/innovation,Innovation News | New Technology Innovations & Scientific Innovations,"Get news on the latest innovations in technology, health, robotics, AI, and more on Interesting Engineering. 
+
+New metabolic cycle boosts carbon capture, increases seed yields in plants. Rewired metabolism gave plants faster carbon capture, higher yields, and extra fuel-making potential.
+
+Chip-based laser device delivers coherent light across the widest spectrum yet. Researchers engineered a chip-based OPO that creates stable, coherent light across broad ranges.
+
+Compact silicon carbide module that houses 5x more energy could power vehicles, grids, and microreactors. ULIS is uniquely suited for high-intensity applications, like aviation and military operations.
+
+Researchers unveil a magnet that slashes alloy heat treatment time and energy use by 80%. UF magnet could significantly reduce steel production energy use with a revolutionary ITMP process.
+
+New liquid air storage system bottles electricity on demand, producing 10 tons daily. Korea’s KIMM team achieved the country’s first large-scale liquid air storage.
+
+Ancient humans buried the dead 120,000 years before modern humans; the discovery of Homo naledi fossils in South Africa has reignited a heated debate over the small-brained species.
+
+China’s ‘artificial sun’ design could boost nuclear fusion power, marking a turning point in global clean energy research.","Interesting Engineering, ULIS, KIMM, China",,"technology, health, robotics, AI, carbon capture, seed yields, coherent light, silicon carbide, high-intensity applications, steel production, liquid air storage, electricity, nuclear fusion power","China’s ‘artificial sun’ design, 80%, 10 tons daily, 120,000 years"
+https://www.grandviewresearch.com/industry-analysis/engineering-services-market-report,"Engineering Services Market Size | Industry Report, 2030","The global engineering services market size was estimated at USD 3,419.59 billion in 2024 and is projected to reach USD 4,722.7 billion by 2030, growing at a CAGR of 5.7% from 2025 to 2030. This growth is driven by increasing investments in infrastructure development, energy transformation initiatives, and industrial automation in both developed and emerging markets. Asia Pacific accounted for the largest revenue share of nearly 37% in 2024. The U.S. engineering services market is witnessing steady growth, with the non-memory ATE segment holding over 19% market share in 2024. Environmental projects dominated the market, fueled by rising global focus on sustainability and climate change reduction. The communications segment leads the market due to the expansion of 5G networks and telecommunications infrastructure. Key players include STRABAG SE, Jones Lang LaSalle, and Balfour Beatty, focusing on integrated solutions and digital transformation to enhance project efficiency and compliance with environmental regulations.","STRABAG SE, Jones Lang LaSalle, Balfour Beatty","USD 3,419.59 billion, USD 4,722.7 billion, 5.7%","USD 3,419.59 billion in 2024, USD 4,722.7 billion by 2030, CAGR of 5.7%, 37%, 19%","USD 3,419.59 billion in 2024, USD 4,722.7 billion by 2030, CAGR of 5.7% from 2025 to 2030, nearly 37% in 2024, over 19% market share in 2024"
+https://www.fortunebusinessinsights.com/engineering-services-market-112409,"Engineering Services Market Size, Share | Growth Report [2032]
+    ","The global engineering services market size was valued at USD 2.15 trillion in 2024 and is projected to grow from USD 2.34 trillion in 2025 to USD 4.64 trillion by 2032, exhibiting a CAGR of 10.3% during the forecast period. Asia Pacific dominated the market with a share of 36.74% in 2024. The engineering services market is vast and continuously evolving, providing services such as software product engineering, embedded engineering, mechanical engineering, and network engineering. Growth is driven by technological advancements and rising needs across industries like automotive, aerospace, manufacturing, BFSI, retail, IT, and healthcare.
+
+The IT & Telecom sector leads in industry adoption, leveraging advanced engineering services for innovation. Key trends include strong growth in digital engineering services, rising penetration of AI and IoT, and expansion of cross-disciplinary projects. Major companies like Infosys and Wipro are focusing on digital engineering solutions. The COVID-19 pandemic accelerated digital adoption, making remote project management mainstream. Generative AI is transforming the industry by automating tasks and enhancing design processes, driving significant growth and investment in the sector.","Infosys, Wipro","USD 2.15 trillion, USD 2.34 trillion, USD 4.64 trillion","USD 2.15 trillion, USD 2.34 trillion, USD 4.64 trillion, 10.3%, 36.74%","USD 2.15 trillion, USD 2.34 trillion, USD 4.64 trillion, 10.3%, 36.74%"
+https://wellfound.com/startups,wellfound.com,Please enable JavaScript and disable any ad blocker.,,,,
+https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-top-trends-in-tech,Error,"I'm sorry, but it seems that there was an issue connecting to the specified website. Please check your internet connection or try accessing the site again later. If you have any specific content or text that you would like me to clean, please provide it, and I'll be happy to assist you.",,,,
+https://www.theplanetgroup.com/blog/engineering-industry-trends-a-2024-outlook,"Engineering Insights: Diversity, Growth, and Innovation Trends | The Planet Group","The engineering sector continues to evolve rapidly, with significant developments across various disciplines. Key statistics highlight trends in the engineering industry, touching upon demographics, market growth, salary insights, job growth, and technological advancements.
+
+A noteworthy trend is the increasing diversity within the engineering workforce. Specifically, 5% of all mechanical engineers identify as part of the LGBT community, indicating a gradually diversifying landscape, although there is still much room for improvement in inclusivity. Moreover, a majority (52%) of mechanical engineers prefer working for private companies over public ones, suggesting a shift towards the private sector.
+
+The geotechnical engineering services market is on a significant upward trajectory, with forecasts suggesting a growth at a 5.1% CAGR, reaching $2.71 billion by 2027. A substantial part of this growth is attributed to a $24.6 billion investment in the U.S. wind energy sector in 2020, alongside a 24% year-over-year growth in the U.S. offshore wind pipeline.
+
+When it comes to salary and job growth, the engineering discipline continues to offer lucrative opportunities. The automotive industry emerges as the top-paying sector, with an average salary of $97,672. Houston, Texas, is notably a significant hub for engineering jobs, particularly in the energy sector. The field is witnessing a balanced interest in majors, with mechanical and electrical engineering tied as the top choices, each drawing 20% of engineers. Additionally, Python proficiency has been highlighted as a top skill, reflecting the importance of programming in today's engineering roles.",,"$2.71 billion by 2027, 5.1% CAGR, $24.6 billion investment in the U.S. wind energy sector in 2020, 24% year-over-year growth in the U.S. offshore wind pipeline","$2.71 billion by 2027, 5.1% CAGR, $24.6 billion investment, 24%, $97,672, 20%","5% of all mechanical engineers, 52%, 5.1% CAGR, $2.71 billion by 2027, $24.6 billion, 24%, $97,672, 20%"
+https://rankings.statista.com/en/employers/rankings/best-employers-for-engineers-america-2025/,Best Employers for Engineers USA 2025 | Statista Rankings,"America’s Best Employers for Engineers 2025 is a list of the top 175 employers for engineers in the USA, created in partnership with Forbes. This ranking is based on an online survey of over 28,000 U.S. engineers who reviewed their own employers and others in their industry, considering over 900,000 datapoints.
+
+The evaluation process includes a scoring model based on survey data from employees in the U.S. Respondents rate how likely they are to recommend their employer on a scale of 0 to 10. They also indicate their industry, allowing for recommendations of employers within that sector.
+
+For data collection, analysts create detailed online questionnaires about work-related topics. Responses are checked for quality and validity. Each potential award-winning employer is researched to confirm eligibility for the list.
+
+Forbes Media, our media partner, focuses on business, investing, technology, and entrepreneurship. For inquiries, contact Jannik Petersen at jannik.petersen@statista.com or +1 212 419 8292 in New York, USA.",Forbes Media,"175, 28,000, 900,000","America’s Best Employers for Engineers 2025, 175, USA, over 28,000, over 900,000, 0 to 10, Forbes Media, Jannik Petersen, jannik.petersen@statista.com, +1 212 419 8292, New York, USA","175, 28,000, 900,000"
+https://fmicorp.com/about/news/fmi-releases-2025-engineering-and-construction-industry-overview-and-first-quarter-outlook,FMI Releases 2025 Engineering and Construction Industry Overview and First Quarter Outlook | FMI Corp,"FMI Corporation, a leading provider of consulting and investment banking services to the built environment, released the 2025 North American Engineering and Construction Industry Overview today. The report provides a comprehensive forecast for a broad range of construction and engineering segments in the U.S. and Canada for 2025. FMI expects engineering and construction spending to end 2025 up 2% from 2024. The report highlights key trends shaping the built environment, such as the surge in construction driven by data centers and manufacturing facilities, strategies to address ongoing labor challenges, and the adoption of digital tools to enhance operational efficiency.
+
+“As we look to the future, it’s clear that understanding long-term trends is essential to shaping a strategy for success,” said Chris Daum, CEO and president of FMI Corp. Key highlights of the report include total engineering and construction spending for the U.S. forecast to end 2024 up 6%, in line with the 6% growth in 2023. In 2024, top-performing segments included public safety, manufacturing, and water supply, each with growth rates more than 15% above 2023 levels. Data centers remain a high-growth area, with private investment up 60% through the third quarter of 2024, compared to 2023.","FMI Corporation, FMI Corp","2025 North American Engineering and Construction Industry Overview, 2%, 6%, 15%, 60%","2025 North American Engineering and Construction Industry Overview, U.S., Canada, engineering and construction spending, 2%, 2024, 6%, growth in 2023, public safety, manufacturing, water supply, 15%, Data centers, 60%","2% from 2024, 6%, 6%, more than 15%, 60%"
+https://www.ibisworld.com/united-states/industry/engineering-services/1403/,Engineering Services in the US - Market Research Report (2015-2030),"Technological integration, governmental infrastructure investment, and a focus on sustainability are driving a transformation in engineering services. In 2025, the industry is projected to generate $350.8 billion in revenue, with a growth rate of 1.0%. This stability is attributed to the adoption of technologies like building information modeling (BIM) and 3D printing, which streamline operations and reduce costs. Government investments, accounting for 34.4% of industry revenue, provide a stable growth foundation. However, interest rate fluctuations and demands for sustainable practices present challenges.
+
+Interest rate fluctuations significantly impact revenue volatility. High rates and inflation have depressed demand, but anticipated rate cuts may boost construction activity. Landmark legislation, such as the Infrastructure Investment and Jobs Act, is driving demand in manufacturing and transportation sectors. The Southeast's economy is attracting engineering services due to its population growth and infrastructure needs. Start-up hurdles include high costs and legal complexities, requiring significant funding and regulatory knowledge.",Infrastructure Investment and Jobs Act,$350.8 billion,"$350.8 billion, 1.0%, 34.4%","$350.8 billion, 1.0%, 34.4%"
+https://www.enr.com/articles/keyword/2575-mergers-acquisitions,Mergers & acquisitions - Articles | Engineering News-Record,"UK's Wood Group Agrees to $291M Purchase by UAE Engineer Sidara. Under a long-gestating deal set to complete in the first half of 2026, Sidara will assume $1.6 billion of Wood Group debt and provide $450 million in cash for the financially strapped energy consultant.
+
+Wood Group Extends Deadline for Sidara's Latest Purchase Bid to June 30. The U.K.-based energy and industrial services firm extends the deadline for a firm offer from UAE-based Sidara or an end to discussions, as an audit of its accounting and corporate governance moves toward completion.
+
+AtkinsRéalis Buys Majority Stake in David Evans Enterprises in a $300M Deal. The Montreal-based firm gains a 70% majority share in the US engineer with intent to acquire full ownership at a later date. The cash deal, subject to approval by David Evans’ shareholders, is expected to close in the second quarter.
+
+Turner Construction Completes Purchase of Dornan Group. Turner says its acquisition of the Irish firm will help it reach new markets and clients.
+
+Gannett Fleming Buys TranSystems in a $1.3B Transport Design Deal. The cash purchase transaction bolsters the combined entity's position in bridge, highway, mass transit, and rail work. TranSystems CEO Tim Rock and Gannett Fleming President and CFO Jim Nevada become co-presidents and co-COOs of the combined entity.","Wood Group, Sidara, AtkinsRéalis, David Evans Enterprises, Turner Construction, Dornan Group, Gannett Fleming, TranSystems","$291M, $450 million, $300M, $1.3B","$291M, $450 million, $300M, $1.3B","$291M, $1.6 billion, $450 million, $300M, $1.3B"
+https://www.csemag.com/weekly-merger-and-acquisition-update-february-21-2025/,"Weekly merger and acquisition update: February 21, 2025 - Consulting - Specifying Engineer","Consulting-Specifying Engineer is dedicated to recognizing talented young individuals in the engineering community supporting the building industry through the 40 Under 40 program. This initiative aims to shape the future of young engineers by providing mentoring articles and networking events.
+
+The MEP Giants program lists the top 100 mechanical, electrical, plumbing (MEP), and fire protection engineering firms in North America. The Commissioning Giants program highlights leading firms that perform commissioning services.
+
+The Product of the Year contest is the premier award for new products in HVAC, fire/life safety, electrical, and plumbing systems engineering markets. This annual reader-choice program informs the audience about the top new products.
+
+In the latest merger and acquisition update, Morrissey Goodale reported 10 domestic and four global transactions. Notable domestic transactions include Larson Engineering acquiring Fagen Engineering, and True Inspection Services joining The Mannik & Smith Group. Global transactions featured Egis acquiring Overhead Line Engineering and Mare Group acquiring a majority stake in La SIA.","Consulting-Specifying Engineer, Morrissey Goodale, Larson Engineering, Fagen Engineering, True Inspection Services, The Mannik & Smith Group, Egis, Overhead Line Engineering, Mare Group, La SIA",,"Morrissey Goodale reported 10 domestic and four global transactions, Larson Engineering acquiring Fagen Engineering, True Inspection Services joining The Mannik & Smith Group, Egis acquiring Overhead Line Engineering, Mare Group acquiring a majority stake in La SIA","10 domestic, four global, Larson Engineering, Fagen Engineering, True Inspection Services, The Mannik & Smith Group, Egis, Overhead Line Engineering, Mare Group, La SIA"
+https://www.linkedin.com/pulse/10-challenges-opportunities-facing-engineering-jane-macmaster-yradc,10 challenges and opportunities facing the engineering profession ,"10 challenges and opportunities facing the engineering profession
+
+1. The engineering workforce – capacity and capability: There is a shortage of engineers in Australia across most sectors. The future strength of the economy will determine how many more engineers it needs. The demand is highest for experienced engineers with around 10 years of experience. The workforce needs engineers who can lead teams and solve actual problems. High levels of churn, a decline in internships, and insufficient professional development opportunities are contributing factors.
+
+2. Keeping up with the dynamic nature of work: The engineering profession must establish the integrity of emerging technologies such as AI and data analytics.
+
+3. Engineering Education: Australia trains engineers well, with strong university-industry links producing exceptional graduates. Scaling this up is a significant opportunity.
+
+4. Design standards and codes: Many design standards are not updated frequently enough to account for changing operational conditions due to climate change.
+
+5. Innovation and entrepreneurship: Australia’s commercialisation environment hinders a thriving innovation economy.
+
+6. Complexity: Engineering work is becoming increasingly complex, requiring accountability at multiple system levels.
+
+7. Climate change: Engineers must ensure the technical perspective is considered in climate change policy and decision-making.
+
+8. Crisis management: Engineers should play a key role in crisis management and response.
+
+9. Trust in the profession: The engineering perspective is often not considered in important decisions, which poses a challenge for the profession.
+
+10. Professional standards: The quality of engineering work is crucial for public safety and economic impact.",,,"engineering profession, Australia, engineers, AI, data analytics, climate change, crisis management, public safety, economic impact","Australia, climate change, AI, data analytics, engineering education, innovation economy"
+https://www.acec.org/event/engineering-market-outlook-2025-economic-assessment-forecast/,Engineering Market Outlook: 2025 Economic Assessment & Forecast – ACEC,"The ACEC Research Institute’s annual Economic Assessment & Forecast of the Engineering and Design Services Industry provides a comprehensive look at the trends, risks, and opportunities shaping the future of engineering. In this session, our research team will walk through the latest findings, including industry growth, labor market dynamics, investment drivers, and the impact of federal spending and interest rates. Attendees will gain valuable insights into where the industry is headed, how macroeconomic forces are influencing performance, and what firm leaders should be watching as they plan for the years ahead. Whether you’re focused on strategy, finance, or operations, this session will equip you with the economic intelligence needed to position your firm for success.
+
+Presenters:
+Joseph Bates, Senior Research Consultant, ACEC Research Institute
+Jon Gray, Principal, Rockport Analytics
+
+Event Type: Research Institute  
+Delivery Format: Online  
+Date & Time: October 23, 2025, 12:30 pm - 1:30 pm  
+Location: Online  
+
+Become a member of the nation’s premier organization promoting and advocating for the business interests of America’s engineering and design services industry.","ACEC Research Institute, Rockport Analytics",,Economic Assessment & Forecast of the Engineering and Design Services Industry,"economic trends, risks, opportunities, industry growth, labor market dynamics, investment drivers, impact of federal spending, interest rates, macroeconomic forces"
+https://www.businessresearchinsights.com/market-reports/engineering-services-market-124426,Engineering Services Market Size | Forecast 2025 To 2033,"The global Engineering Services market size expanded rapidly in 2022 and is projected to grow substantially by 2028, exhibiting a significant CAGR during the forecast period. This market supplies a variety of technical options to industries including aerospace, automotive, and construction. Engineering services involve developing and managing products and systems for optimal operation and protection. The market is growing as new technology offers smart and environmentally friendly choices. Firms increasingly opt for external companies due to their specialized skills and improved efficiency. Digital transformation is enhancing engineering services through simulation, data analysis, and automation.
+
+The COVID-19 pandemic negatively impacted the engineering services industry due to project delays and supply disruptions. Many projects were postponed, and budgets were cut, leading to a decline in revenue and growth potential. However, the market is recovering as demand returns to pre-pandemic levels.
+
+Digital twin technology is driving market growth by enabling predictive maintenance and improving efficiency. In Europe, nearly 70% of construction companies utilize Building Information Modeling (BIM) to enhance designs and estimate costs. The adoption of new technologies like IoT and AI presents significant opportunities for market development, while the lack of skilled workers remains a challenge.",No specific company names are mentioned in the text.,Engineering Services market size expanded rapidly in 2022 and is projected to grow substantially by 2028,Engineering Services,"2022, 2028, CAGR, 70%"
+https://www.cnybj.com/mergers-and-acquisitions-of-architectural-and-engineering-firms/,403 Forbidden,"It seems that the content you are trying to access is restricted or unavailable. Please check the URL or try again later. If you need assistance, consider reaching out to the website's support team for more information.",,,,
+https://www.efcg.com/news,News | EFCG | AEC M&A Advisors,"EFCG advises Qualus Corporation on its planned acquisition of Wood’s North American Transmission and Distribution Engineering Business. Qualus Corporation, a New Mountain Capital-backed leading pure-play power solutions firm, is expanding its capabilities.
+
+EFCG is pleased to announce the sale of ILLUME Advising to E Source, a portfolio company of Align Capital Partners. The Environmental Financial Consulting Group (EFCG) is proud to present its latest Architecture, Engineering, & Consulting (AEC) Industry Brief, which includes recent closed deal announcements, real-time market trends, select M&A transactions, and public market observations.
+
+EFCG announces Pat Sheridan as the 2025 CFO of the Year. The sale of NewFields’ Environmental Division to ERM has been successfully completed, marking a significant milestone for both organizations. EFCG served as a strategic advisor to Ulteig on its acquisition of Paradigm Environmental.
+
+The construction and engineering sectors are undergoing a shift in how leadership, diversity, and inclusion intersect. EFCG contributed expert insights to Environment Analyst's latest report on M&A opportunities in the Environmental & Sustainability Consulting Sector.","Qualus Corporation, Wood, ILLUME Advising, E Source, Align Capital Partners, Environmental Financial Consulting Group, NewFields, ERM, Ulteig, Paradigm Environmental",,"Architecture, Engineering, & Consulting (AEC) Industry Brief, Environmental & Sustainability Consulting Sector","Qualus Corporation, Wood’s North American Transmission and Distribution Engineering Business, ILLUME Advising, E Source, Align Capital Partners, NewFields’ Environmental Division, ERM, Ulteig, Paradigm Environmental, Environmental & Sustainability Consulting Sector"
